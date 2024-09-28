@@ -1,7 +1,7 @@
 ---
 title: How Windows 11 Sets a New Benchmark for Out-of-the-Box Security with Microsoft's Latest Innovations | Featured on ZDNET
-date: 2024-09-16T16:18:21.226Z
-updated: 2024-09-23T16:55:32.691Z
+date: 2024-09-23T21:23:35.938Z
+updated: 2024-09-27T18:24:56.763Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-full-disclosure-gecata-gameplay-tracker-reviewed-for-2024/"><u>[New] Full Disclosure Gecata Gameplay Tracker Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-partner-selection-for-youtube-joint-ventures-for-2024/"><u>[Updated] Navigating Partner Selection for YouTube Joint Ventures for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-periscope-is-it-free-registeration-process-explained/"><u>2024 Approved Grasping Periscope Is It Free? Registeration Process Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-graphics-accelerator-for-your-pc-nvidia-geforce-rtx-2e-2070-drivers/"><u>Get the Latest Graphics Accelerator for Your PC - NVIDIA GeForce RTX 2E 2070 Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-descubrimientos-de-la-imagen-bmp-tutorial-detallado-sobre-como-leer-guardar-y-acceder/"><u>Los Descubrimientos De La Imagen BMP: Tutorial Detallado Sobre Cómo Leer, Guardar Y Acceder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smooth-transition-from-skype-to-zoom-for-better-collaboration-for-2024/"><u>Smooth Transition From Skype to Zoom for Better Collaboration for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/the-race-against-time-will-intel-ever-match-qualcomm-and-save-the-future-of-x86-computers/"><u>The Race Against Time: Will Intel Ever Match Qualcomm and Save the Future of X86 Computers?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-11-secret-gesture-commands-every-expert-needs-on-their-touchpad-discover-the-hidden-skills/"><u>Top 11 Secret Gesture Commands Every Expert Needs on Their Touchpad - Discover the Hidden Skills!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/urgent-update-switch-from-authy-to-alternative-2fa-solutions-before-deadline-ends-zdnet/"><u>Urgent Update: Switch From Authy to Alternative 2FA Solutions Before Deadline Ends | ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/why-switching-to-windows-11-pro-is-a-game-changer-for-your-pc-tips-and-tricks-by-zdnet-experts/"><u>Why Switching to Windows 11 Pro Is a Game-Changer for Your PC | Tips & Tricks by ZDNET Experts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-11-update-subscription-model-set-by-microsoft-starting-next-year-expected-fees-revealed-zdnet/"><u>Windows 11 Update Subscription Model Set by Microsoft Starting Next Year – Expected Fees Revealed | ZDNET</u></a></li>
+</ul></div>
 

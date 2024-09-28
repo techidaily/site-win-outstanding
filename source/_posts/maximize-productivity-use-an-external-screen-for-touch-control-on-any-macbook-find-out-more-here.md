@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Use an External Screen for Touch Control on Any MacBook - Find Out More Here"
-date: 2024-09-19T16:08:28.737Z
-updated: 2024-09-23T16:10:12.800Z
+date: 2024-09-20T16:43:15.925Z
+updated: 2024-09-27T21:22:38.832Z
 tags:
   - office-furniture
 categories:
@@ -42,10 +42,10 @@ That mostly holds true with the Espresso Display V2, save for the cheaper price 
 The 15-inch touchscreen model that I've been testing [costs $499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf4ded5ff-03a8-43e3-bcf1-d80ee99ae88a%7Cdtp&dtb=1), which isn't the most expensive portable monitor out there, but it's a marginal step up from the sub-$200 offerings that you'd typically find on [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dportable%2Bmonitor%26i%3Delectronics%26crid%3D24ZP2PE8N0I59%26sprefix%3Dportable%2Bmonitor%2Celectronics%2C82%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf4ded5ff-03a8-43e3-bcf1-d80ee99ae88a%7Cdtp&dtb=1). Here's my review of it.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -61,6 +61,13 @@ The 15-inch touchscreen model that I've been testing [costs $499](https://buy.ge
 | Price          | [$499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf4ded5ff-03a8-43e3-bcf1-d80ee99ae88a%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Designed for minimalists
 
@@ -81,10 +88,10 @@ The monitor has two USB-C ports for display connection and nothing more. Gone is
 **More: [Best portable monitors to get work done](https://www.zdnet.com/article/best-portable-monitor/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How it works
@@ -109,6 +116,13 @@ June Wan/ZDNET
 
 There are bottom-firing speakers on the monitor, but you're better off using the native one(s) of your connected device. It's certainly astounding how Espresso managed to cram a functioning speaker into the chassis, but in its pursuit of slimness, the actual audio performance takes a major hit. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finally, a touchscreen for Mac
 
 Industrial achievements aside, the Display V2 impressed me the most by doing something that even Apple cannot: giving touchscreen support for my MacBook. As many [ZDNET contributors and readers have opined](https://www.zdnet.com/article/the-results-are-in-zdnets-linkedin-fans-want-a-touchscreen-macbook-too/), a MacBook with a touchscreen would make one of the best productivity machines even better. While the Display V2 doesn't turn your actual MacBook display into a touchscreen, it does replicate the content, allowing you to interact with taps, presses, and swipes. 
@@ -123,31 +137,11 @@ June Wan/ZDNET
 
 [Buy the Espresso Display V2 $683.07 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WMX6442%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf4ded5ff-03a8-43e3-bcf1-d80ee99ae88a%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should you buy it?
 
 The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf4ded5ff-03a8-43e3-bcf1-d80ee99ae88a%7Cdtp&dtb=1) is the thinnest portable monitor in the world, which means, by design, there are benefits and drawbacks. For traveling business people, hybrid workers, and digital nomads, the enhanced portability and simple set-up will be greatly appreciated. For remote and stationary workers, the ability to flex between display orientations and interact via touch comes in handy. 
 
 The things I'd watch out for are the subpar speakers, additional upcharges for accessories, and the glossy display panel, especially if you work near windows. If you can shoulder these limitations, then the Espresso Display V2 is as good as portable monitors get.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,5 +187,23 @@ For a no-frills portable monitor, we'd recommend this 15.6-inch, touchscreen off
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-whispered-wonders-in-video-evaluating-bedtime-story-adaptations-for-2024/"><u>[New] Whispered Wonders in Video Evaluating Bedtime Story Adaptations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-audience-attention-top-6-video-styles/"><u>[Updated] Unlock Audience Attention Top 6 Video Styles</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/boost-your-pcs-performance-discover-the-secret-windows-11-feature-that-rapidly-terminates-sluggish-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Discover the Secret Windows 11 Feature That Rapidly Terminates Sluggish Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892134881-conquer-windows-error-code-39-tips-and-strategies-for-successful-repair/"><u>Conquer Windows Error Code 39 - Tips and Strategies for Successful Repair</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/efficiently-categorize-windows-11s-start-menu-using-folders-a-step-by-step-guide/"><u>Efficiently Categorize Windows 11'S Start Menu Using Folders: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/elevate-your-computer-experience-steps-and-reasons-for-switching-from-windows-home-to-pro-edition-according-to-zdnets-expert-advice/"><u>Elevate Your Computer Experience: Steps and Reasons for Switching From Windows Home to Pro Edition, According to ZDNet's Expert Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-your-video-experience-the-premium-perspective/"><u>Elevating Your Video Experience: The Premium Perspective</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/finding-happiness-with-a-macbook-one-google-professional-reveals-flaws-of-windows-pcs/"><u>Finding Happiness with a MacBook? One Google Professional Reveals Flaws of Windows PCs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-can-office-lighting-like-desk-lamps-boost-worker-appreciation-insights-from-zdnet/"><u>How Can Office Lighting, Like Desk Lamps, Boost Worker Appreciation?: Insights From ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-secure-your-free-windows-10-upgrade-expert-advice-on-zdnet/"><u>How to Secure Your Free Windows 10 Upgrade - Expert Advice on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-the-drivers-of-your-dell-233amonochrome-laser-printers/"><u>How to Update the Drivers of Your Dell 233Amonochrome Laser Printers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-x8b-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor X8b</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-12-prowindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 12 Pro/Windows/Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlined-techniques-for-ios-image-sharing/"><u>In 2024, Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-camon-20-premier-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Camon 20 Premier 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/shop-the-finest-exclusive-selection-of-over-40-steeply-discounted-prime-day-monitors-available-now-your-guide-to-savings/"><u>Shop the Finest: Exclusive Selection of Over 40 Steeply Discounted Prime Day Monitors Available Now – Your Guide to Savings!</u></a></li>
+</ul></div>
 

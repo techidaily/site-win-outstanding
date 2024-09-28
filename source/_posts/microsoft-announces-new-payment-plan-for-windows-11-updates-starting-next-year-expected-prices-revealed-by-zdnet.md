@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces New Payment Plan for Windows 11 Updates Starting Next Year – Expected Prices Revealed by ZDNet
-date: 2024-09-18T16:05:35.526Z
-updated: 2024-09-23T16:56:04.572Z
+date: 2024-09-23T21:25:38.154Z
+updated: 2024-09-28T06:23:14.945Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +159,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +206,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-detailed-walkthrough-embedding-online-video-into-ms-presentations/"><u>[New] In 2024, A Detailed Walkthrough Embedding Online Video Into MS Presentations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eel-them-in-a-step-by-step-approach-to-livestreaming-on-youtube/"><u>[New] Reel Them In A Step-by-Step Approach to Livestreaming on Youtube</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1726219689115-movavi/"><u>美しいキャプション付き画像作成手順 - Movaviの独案</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/oggmov-movavi/"><u>網路自助無限 OGG到MOV格式轉換 - 利用Movavi工具</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5pya5paw44gu44ov44oq44o844km44kn44ki44gn44cb5yq55p6c55qe44gr5yuv55s744ov44kh44kk44or44ks5zyn57iu44gz44kl5pa55rov77yw44gk/"><u>最新のフリーウェアで、効果的に動画ファイルを圧縮する方法６つ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-professional-development/"><u>AI & the Future of Professional Development</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-your-media-files-for-free-supports-wma-mkv-use-movavis-easy-to-use-tool/"><u>Convert Your Media Files for Free - Supports WMA, MKV - Use Movavi's Easy-to-Use Tool.</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/effortlessly-convert-mp4-videos-into-m4a-audio-at-no-cost-use-our-top-picks-online-tools/"><u>Effortlessly Convert MP4 Videos Into M4A Audio at No Cost - Use Our Top Picks Online Tools!</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-rog-phone-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on ROG Phone 8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>In 2024, Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mkv-vs-mp4-which-file-format-is-better/"><u>MKV Vs. MP4: Which File Format Is Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-shutting-down-windows-11-on-your-computer-effective-fixes/"><u>Resolving Issues with Shutting Down Windows 11 on Your Computer – Effective Fixes</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/staatsbewijzen-maken-van-fotos-leuk-onderschat-met-movavis-bewerkt-vervaardigingsprogramma/"><u>Staatsbewijzen Maken Van Fotos Leuk Onderschat Met Movavi's Bewerkt Vervaardigingsprogramma</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-helmet-action-cameras-for-motorcycle/"><u>Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-11s-undisclosed-trick-for-rapid-termination-of-slow-running-applications-revealed-by-zdnet/"><u>Windows 11'S Undisclosed Trick for Rapid Termination of Slow-Running Applications, Revealed by ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/winning-gamers-hearts-windows-11-triumphs-over-windows-10-in-pc-gaming/"><u>Winning Gamers' Hearts: Windows 11 Triumphs Over Windows 10 in PC Gaming</u></a></li>
+</ul></div>
 
