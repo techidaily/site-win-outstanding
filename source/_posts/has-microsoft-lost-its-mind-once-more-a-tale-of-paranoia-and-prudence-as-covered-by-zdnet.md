@@ -1,7 +1,7 @@
 ---
 title: Has Microsoft Lost Its Mind Once More? A Tale of Paranoia and Prudence as Covered by ZDNet
-date: 2024-09-25T19:46:06.201Z
-updated: 2024-09-28T03:58:46.896Z
+date: 2024-09-29T23:57:26.343Z
+updated: 2024-10-03T09:23:31.854Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-download-and-save-youtube-thumbnails-with-simplicity-and-speed/"><u>[New] 2024 Approved Download and Save YouTube Thumbnails with Simplicity & Speed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-the-field-in-remotely-recorded-content-creation-for-2024/"><u>[New] Leading the Field in Remotely Recorded Content Creation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-premium-zoom-audio-quality-with-simple-adjustments/"><u>[New] Unleash Premium Zoom Audio Quality with Simple Adjustments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-expertise-crafting-time-lapse-photos/"><u>[Updated] IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1-convert-grooveshark-tracks-to-mp3-format-easy-guide-for-downloading-on-macos-and-windows/"><u>1. Convert Grooveshark Tracks to MP3 Format: Easy Guide for Downloading on macOS and Windows</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1-how-to-download-byu-tv-shows-in-various-formats-like-mp4-wmv-and-more/"><u>1. How to Download BYU TV Shows in Various Formats Like MP4, WMV, and More</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>2024 Approved Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/blastro-music-video-downloads-in-multiple-formats-mp4-wmv-avi-compatible-with-mac-and-windows/"><u>Blastro Music Video Downloads in Multiple Formats: MP4, WMV, AVI - Compatible with Mac & Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/changer-facilement-un-fichier-raf-en-format-png-sans-frais-guide-rapide-avec-movavi/"><u>Changer Facilement Un Fichier RAF en Format PNG Sans Frais - Guide Rapide Avec Movavi</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-download-your-favorite-xboxclip-videos-in-multiple-formats-mp4-mov-avi-flv-wmv-mkv-etc/"><u>Convert and Download Your Favorite XboxClip Videos in Multiple Formats: MP4, MOV, AVI, FLV, WMV, MKV, Etc</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-mending-a-broken-iphone-mic-effective-solutions-for-clear-audio/"><u>Diagnosing and Mending a Broken iPhone Mic: Effective Solutions for Clear Audio</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y100i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y100i to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-rated-cross-platform-video-downloading-app-a-better-choice-than-ant-on-any-device/"><u>Top-Rated Cross-Platform Video Downloading App: A Better Choice Than Ant on Any Device!</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transfer-tunes-from-goear-effortless-download-of-mp3-wav-and-flac-files/"><u>Transfer Tunes From Goear: Effortless Download of MP3, WAV, and FLAC Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-toshiba-laptops-software-essential-driver-downloads-for-windows-users/"><u>Updating Your Toshiba Laptop's Software: Essential Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/zmovies-to-video-converter-effortlessly-save-videos-as-mp4-mov-or-avi-using-the-latest-zmovies-downloader-tool/"><u>ZMovies to Video Converter: Effortlessly Save Videos as MP4, MOV or AVI Using the Latest ZMovies Downloader Tool!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-cinematic-audio-in-inshot-videos/"><u>[New] Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-free-fast-and-easy-top-5-choices-for-pinterest-video-downloaders-for-2024/"><u>[New] Free, Fast & Easy Top 5 Choices for Pinterest Video Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-free-music-a-producers-handbook/"><u>[Updated] Finding Free Music A Producer's Handbook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-rhythmic-reels-how-to-pick-beats-for-ig-content/"><u>[Updated] Rhythmic Reels How to Pick Beats for IG Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/activatingdeactivating-picture-in-picture-feature/"><u>Activating/Deactivating Picture-in-Picture Feature</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/boost-your-pcs-performance-discover-the-secret-windows-11-feature-that-rapidly-terminates-sluggish-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Discover the Secret Windows 11 Feature That Rapidly Terminates Sluggish Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/efficiently-categorize-windows-11s-start-menu-using-folders-a-step-by-step-guide/"><u>Efficiently Categorize Windows 11'S Start Menu Using Folders: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/elevate-your-computer-experience-steps-and-reasons-for-switching-from-windows-home-to-pro-edition-according-to-zdnets-expert-advice/"><u>Elevate Your Computer Experience: Steps and Reasons for Switching From Windows Home to Pro Edition, According to ZDNet's Expert Advice</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/finding-happiness-with-a-macbook-one-google-professional-reveals-flaws-of-windows-pcs/"><u>Finding Happiness with a MacBook? One Google Professional Reveals Flaws of Windows PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolved-issue-origin-cannot-connect-to-internet/"><u>Resolved Issue: Origin Cannot Connect to Internet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-epson-scanner-functionality-in-windows-11/"><u>Restoring Epson Scanner Functionality in Windows 11</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/shop-the-finest-exclusive-selection-of-over-40-steeply-discounted-prime-day-monitors-available-now-your-guide-to-savings/"><u>Shop the Finest: Exclusive Selection of Over 40 Steeply Discounted Prime Day Monitors Available Now – Your Guide to Savings!</u></a></li>
 </ul></div>
 

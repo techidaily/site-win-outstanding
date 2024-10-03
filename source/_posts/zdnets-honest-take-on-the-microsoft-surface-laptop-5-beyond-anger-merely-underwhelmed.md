@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Honest Take on the Microsoft Surface Laptop 5: Beyond Anger, Merely Underwhelmed"
-date: 2024-09-23T03:08:18.845Z
-updated: 2024-09-28T05:41:21.088Z
+date: 2024-10-01T07:40:42.905Z
+updated: 2024-10-03T03:29:20.597Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-transform-your-tiktok-sound-altering-vocal-effects/"><u>[New] 2024 Approved Transform Your TikTok Sound Altering Vocal Effects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-capture-your-world-audio-on-windows-10/"><u>[New] In 2024, Capture Your World Audio on Windows 10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[Updated] 2024 Approved Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/blastro-music-video-downloads-in-multiple-formats-mp4-wmv-avi-compatible-with-mac-and-windows/"><u>Blastro Music Video Downloads in Multiple Formats: MP4, WMV, AVI - Compatible with Mac & Windows</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-save-moviefone-show-downloads-in-mp4avi-format-for-pcs-and-macs/"><u>Convert & Save Moviefone Show Downloads in MP4/AVI Format for PCs & Macs</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-download-your-favorite-xboxclip-videos-in-multiple-formats-mp4-mov-avi-flv-wmv-mkv-etc/"><u>Convert and Download Your Favorite XboxClip Videos in Multiple Formats: MP4, MOV, AVI, FLV, WMV, MKV, Etc</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/download-leadercast-videos-as-mp4-files-with-easy-video-converter/"><u>Download Leadercast Videos as MP4 Files with Easy Video Converter</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/download-tune-tracker-get-your-favorite-slacker-streams-and-melodies/"><u>Download Tune Tracker: Get Your Favorite Slacker Streams and Melodies</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/easy-downloads-of-topperlearning-course-content-including-instructional-videos-and-tutorials/"><u>Easy Downloads of TopperLearning Course Content, Including Instructional Videos and Tutorials</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-phantom-v-fold-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Phantom V Fold Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 15 Pro and iPad?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/linkedin-pro-membership-what-you-get-back/"><u>LinkedIn Pro Membership: What You Get Back</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-toms-equipment-your-trusted-source-for-computing-hardware/"><u>Navigating the World of Tom's Equipment: Your Trusted Source for Computing Hardware</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/should-you-upgrade-your-iphone/"><u>Should You Upgrade Your iPhone?</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-speakers-for-an-unresponsive-acer-laptop/"><u>Step-by-Step Guide: Reactivating Speakers for an Unresponsive Acer Laptop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-a-path-to-youtube-wealth-cpm-analysis/"><u>[New] Charting a Path to YouTube Wealth CPM Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-speech-to-text-in-google-documents/"><u>[New] Harness the Power of Speech-to-Text in Google Documents</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-gear-for-capturing-journeys-on-camera/"><u>[Updated] Gear for Capturing Journeys on Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-share-screen-on-google-meet/"><u>[Updated] How to Share Screen on Google Meet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/buy-microsoft-project-professional-and-microsoft-visio-professional-licenses-at-unbeatable-price-just-20-todays-offer-on-zdnet/"><u>Buy Microsoft Project Professional & Microsoft Visio Professional Licenses at Unbeatable Price: Just $20 - Today's Offer on ZDNet!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-hash-tracking-top-apps-reviewed-fbtwitterinsta/"><u>Mastering the Art of Hash Tracking Top Apps Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/revive-your-aging-pc-before-microsofts-deadline-top-5-free-solutions-for-windows-1011-users-techdigest/"><u>Revive Your Aging PC Before Microsoft's Deadline: Top 5 FREE Solutions for Windows 10/11 Users | TechDigest</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/staying-connected-office-2016-and-2019-seamless-access-to-ms365-support-in-the-upcoming-year-technews/"><u>Staying Connected: Office 2016 & 2019 Seamless Access to MS365 Support in the Upcoming Year | TechNews</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-enhancing-your-pc-with-a-windows-pro-upgrade-from-home-edition-benefits-revealed/"><u>Step-by-Step Guide to Enhancing Your PC with a Windows Pro Upgrade From Home Edition - Benefits Revealed</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-trending-internet-browsers-a-comprehensive-review-insights-from-zdnet/"><u>Top Trending Internet Browsers: A Comprehensive Review - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-launch-errors-in-genshin-impact-using-these-5-easy-methods/"><u>Troubleshoot Launch Errors in Genshin Impact Using These 5 Easy Methods</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/why-microsoft-believes-setting-a-goal-of-11-is-key-to-forming-lasting-ai-training-habits-insights-from-zdnet/"><u>Why Microsoft Believes Setting a Goal of 11 Is Key to Forming Lasting AI Training Habits: Insights From ZDNet</u></a></li>
 </ul></div>
 

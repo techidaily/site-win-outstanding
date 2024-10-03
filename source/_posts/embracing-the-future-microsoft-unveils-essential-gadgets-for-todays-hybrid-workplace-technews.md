@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future: Microsoft Unveils Essential Gadgets for Today’s Hybrid Workplace | TechNews"
-date: 2024-09-21T23:06:32.270Z
-updated: 2024-09-27T18:55:51.326Z
+date: 2024-09-27T01:08:47.412Z
+updated: 2024-10-03T10:24:39.772Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,21 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-google-meet-enrollment/"><u>[New] In 2024, Navigating Google Meet Enrollment</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-into-hd-color-on-windows-watch-edit-relish-videos/"><u>[New] In 2024, Step Into HD Color on Windows Watch, Edit, Relish Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-logitechs-full-blown-4k-webcam-complete-reveal-and-evaluation/"><u>[New] Logitech's Full-Blown 4K Webcam - Complete Reveal & Evaluation</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-amplify-your-content-reach-with-twitters-visual-stories-to-insta/"><u>[Updated] Amplify Your Content Reach with Twitter's Visual Stories to Insta</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726219689115-movavi/"><u>美しいキャプション付き画像作成手順 - Movaviの独案</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/oggmov-movavi/"><u>網路自助無限 OGG到MOV格式轉換 - 利用Movavi工具</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/5pya5paw44gu44ov44oq44o844km44kn44ki44gn44cb5yq55p6c55qe44gr5yuv55s744ov44kh44kk44or44ks5zyn57iu44gz44kl5pa55rov77yw44gk/"><u>最新のフリーウェアで、効果的に動画ファイルを圧縮する方法６つ</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-captioning-faults-in-win-10-systems/"><u>Addressing Captioning Faults in Win 10 Systems</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/best-manycam-app-professional-live-streaming-and-virtual-camera-solutions/"><u>Best ManyCam App: Professional Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-your-media-files-for-free-supports-wma-mkv-use-movavis-easy-to-use-tool/"><u>Convert Your Media Files for Free - Supports WMA, MKV - Use Movavi's Easy-to-Use Tool.</u></a></li>
-<li><a href="https://facebook.techidaily.com/curbing-covid-misinformation-a-roadmap-for-social-networks/"><u>Curbing COVID Misinformation: A Roadmap for Social Networks</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effortlessly-convert-mp4-videos-into-m4a-audio-at-no-cost-use-our-top-picks-online-tools/"><u>Effortlessly Convert MP4 Videos Into M4A Audio at No Cost - Use Our Top Picks Online Tools!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11 Pro? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-images-lightrooms-favorite-luts/"><u>In 2024, Perfecting Your Images LightRoom's Favorite LUTs</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mkv-vs-mp4-which-file-format-is-better/"><u>MKV Vs. MP4: Which File Format Is Better?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/staatsbewijzen-maken-van-fotos-leuk-onderschat-met-movavis-bewerkt-vervaardigingsprogramma/"><u>Staatsbewijzen Maken Van Fotos Leuk Onderschat Met Movavi's Bewerkt Vervaardigingsprogramma</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor-for-2024/"><u>[New] Cutting Edge or Outdated? Full Review & Guide to Vita's Editor for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-screen-logger-suite-for-2024/"><u>[New] Ultimate Screen Logger Suite for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uniting-visuals-on-iphone-photos-with-videos/"><u>[Updated] Uniting Visuals on iPhone Photos with Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos/"><u>[Updated] ZD Soft An In-Depth Guide to Capture, Record & Edit Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-high-speed-video-snapshots-avoid-technical-hurdles/"><u>2024 Approved High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/blastro-music-video-downloads-in-multiple-formats-mp4-wmv-avi-compatible-with-mac-and-windows/"><u>Blastro Music Video Downloads in Multiple Formats: MP4, WMV, AVI - Compatible with Mac & Windows</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-save-moviefone-show-downloads-in-mp4avi-format-for-pcs-and-macs/"><u>Convert & Save Moviefone Show Downloads in MP4/AVI Format for PCs & Macs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-download-your-favorite-xboxclip-videos-in-multiple-formats-mp4-mov-avi-flv-wmv-mkv-etc/"><u>Convert and Download Your Favorite XboxClip Videos in Multiple Formats: MP4, MOV, AVI, FLV, WMV, MKV, Etc</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-leadercast-videos-as-mp4-files-with-easy-video-converter/"><u>Download Leadercast Videos as MP4 Files with Easy Video Converter</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-tune-tracker-get-your-favorite-slacker-streams-and-melodies/"><u>Download Tune Tracker: Get Your Favorite Slacker Streams and Melodies</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-downloads-of-topperlearning-course-content-including-instructional-videos-and-tutorials/"><u>Easy Downloads of TopperLearning Course Content, Including Instructional Videos and Tutorials</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/effective-substitutes-for-videograbby-overcome-common-playback-problems/"><u>Effective Substitutes for VideoGrabby: Overcome Common Playback Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-monetize-your-blogging-project-using-buyselladscom/"><u>How to Successfully Monetize Your Blogging Project Using BuySellAds.com</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ays-to-youtube-stardom-in-video-games-for-2024/"><u>Pathways to YouTube Stardom in Video Games for 2024</u></a></li>
 </ul></div>
 

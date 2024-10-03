@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Privacy & Convenience: Microsoft Upgrades Copilot for Seamless User Interactions, as Covered by ZDNET"
-date: 2024-09-26T05:26:59.082Z
-updated: 2024-09-28T01:19:34.062Z
+date: 2024-09-30T06:14:09.886Z
+updated: 2024-10-03T09:10:44.211Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,17 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-picks-top-pc-screen-recorder-reviewed/"><u>[New] 2024 Approved Apowersoft Picks Top PC Screen Recorder Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-transform-your-video-presentation-with-updated-covers/"><u>[New] Transform Your Video Presentation with Updated Covers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[Updated] 2024 Approved Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/buy-microsoft-project-professional-and-microsoft-visio-professional-licenses-at-unbeatable-price-just-20-todays-offer-on-zdnet/"><u>Buy Microsoft Project Professional & Microsoft Visio Professional Licenses at Unbeatable Price: Just $20 - Today's Offer on ZDNet!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-bios-routes-in-msi-windows-os/"><u>Fixing BIOS Routes in MSI Windows OS</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/get-started-now-comprehensive-action-guide-and-user-manual/"><u>Get Started Now: Comprehensive Action Guide & User Manual</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/high-definition-video-capture-with-splash-20-screen-recorder/"><u>High-Definition Video Capture with Splash 2.0 Screen Recorder</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-guide-mastering-action-activation-and-update-processes/"><u>How-To Guide: Mastering Action, Activation & Update Processes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-minute-details-on-screen-through-zooming-techniques/"><u>In 2024, Mastering Minute Details On-Screen Through Zooming Techniques</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mastering-skype-step-by-step-guide-to-capturing-high-quality-recorded-conversations/"><u>Mastering Skype: Step-by-Step Guide to Capturing High-Quality Recorded Conversations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-storm-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Storm 5G</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-50-iconic-latin-quotes-for-charisma/"><u>Top 50 Iconic Latin Quotes for Charisma</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-selecting-the-ideal-360-cameras-for-videography/"><u>[New] 2024 Approved Selecting the Ideal 360° Cameras for Videography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>[Updated] 2024 Approved From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoiding-upside-down-videos-in-your-instagram-feed/"><u>[Updated] Avoiding Upside-Down Videos in Your Instagram Feed</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/best-free-pdf-editing-software-for-windows-10-users-effortless-downloads-available/"><u>Best Free PDF Editing Software for Windows 10 Users - Effortless Downloads Available</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-portable-dvd-players-on-the-market-top-picks-for-your-next-road-trip/"><u>Best Portable DVD Players on the Market: Top Picks for Your Next Road Trip</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/best-tools-for-transforming-your-youtube-content-into-high-quality-mp3-audio/"><u>Best Tools for Transforming Your YouTube Content Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-approach-to-deleting-the-wsl-subsystem/"><u>Complete Approach to Deleting the WSL Subsystem</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/discover-fantastic-free-watermark-applications-your-ultimate-guide/"><u>Discover Fantastic Free Watermark Applications – Your Ultimate Guide!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/discover-the-best-online-utilities-for-quick-and-easy-digital-imaging-snipping/"><u>Discover the Best Online Utilities for Quick and Easy Digital Imaging Snipping</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-techniques-for-successfully-transferring-mp3-files-onto-your-ipad/"><u>Easy Techniques for Successfully Transferring MP3 Files Onto Your iPad</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevated-era-of-pc-gaming-ditching-the-need-for-launchers/"><u>Elevated Era of PC Gaming: Ditching the Need for Launchers</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/essential-applications-for-seamless-live-video-broadcasting-on-mac-devices/"><u>Essential Applications for Seamless Live Video Broadcasting on Mac Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-huawei-nova-y91-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Huawei Nova Y91 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-secure-your-85-inch-tcl-tv-at-an-unbeatable-price-of-900-this-labor-day-weekend/"><u>Limited Time Offer: Secure Your 85-Inch TCL TV at an Unbeatable Price of $900 This Labor Day Weekend!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/navigating-apowersoft-pdf-shrinker-tutorial-a-comprehensive-guide-for-efficient-file-management/"><u>Navigating Apowersoft PDF Shrinker Tutorial: A Comprehensive Guide for Efficient File Management</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/quick-guide-to-securely-syncing-your-iphone-picture-library-with-your-computer/"><u>Quick Guide to Securely Syncing Your iPhone Picture Library with Your Computer</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-methods-for-removing-your-information-from-iphone-devices/"><u>Simple Methods for Removing Your Information From iPhone Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-techniques-pour-transformer-votre-video-avi-lourd-en-mp4-sans-frais/"><u>Top 5 Techniques Pour Transformer Votre Vidéo AVI Lourd en MP4 Sans Frais</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-dvd-mastery-choosing-the-right-movie-making-software-for-beginners-for-2024/"><u>Updated DVD Mastery Choosing the Right Movie Making Software for Beginners for 2024</u></a></li>
 </ul></div>
 

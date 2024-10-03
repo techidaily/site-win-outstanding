@@ -1,7 +1,7 @@
 ---
 title: Pre-Order the New Microsoft Surface Laptop Go 2 at Just $599 - Get Yours Today!
-date: 2024-09-20T17:09:26.962Z
-updated: 2024-09-28T04:26:29.325Z
+date: 2024-09-27T21:38:51.366Z
+updated: 2024-10-02T18:19:16.402Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,16 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -158,6 +157,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +208,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[New] Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004429646-banish-installation-problems-enjoy-playing-minecraft-on-windows-11-today/"><u>Banish Installation Problems: Enjoy Playing Minecraft on Windows 11 Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-human-sight-ais-ineffective-blockers/"><u>Beyond Human Sight: AI's Ineffective Blockers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/controlling-home-appliances-using-chatgpt-feasibility-and-techniques/"><u>Controlling Home Appliances Using ChatGPT: Feasibility and Techniques</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-videos-to-mp4-with-mts-to-mp4-online-a-quick-guide/"><u>Convert Videos to MP4 with MTS to MP4 Online: A Quick Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-an-abruptly-failing-vehicle-radio-system/"><u>Diagnosing and Fixing an Abruptly Failing Vehicle Radio System</u></a></li>
-<li><a href="https://facebook.techidaily.com/experiential-rollout-of-meta-drops-to-instagram-and-fb-fans/"><u>Experiential Rollout of Meta Drops to Instagram & FB Fans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-influence-of-artificial-intelligence-on-game-development/"><u>Exploring the Potential Influence of Artificial Intelligence on Game Development</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-100-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor 100 Pro Phone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/movavi-jpgtiff/"><u>Movavi 구성표로 JPG/TIFF 이미지에 대한 원격, 무료 변환 가능</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transformation-gratuite-de-fichiers-mpeg-en-format-swf-en-ligne-avec-movavi/"><u>Transformation Gratuite De Fichiers MPEG en Format SWF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/upload-and-transform-mp4-videos-to-movquicktime-formats-for-free-online-conversion-services/"><u>Upload & Transform MP4 Videos to MOV/QuickTime Formats for Free Online Conversion Services</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/webm-e-conversao-para-flac-em-graca-ajuda-profissional-do-movavi-online/"><u>Webm E Conversão Para FLAC Em Graça: Ajuda Profissional Do Movavi Online</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/3gppavi-moveave/"><u>オンラインでの3GPPファイルAVI形式無料変換 - Moveave</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726226559534-aiffwma/"><u>ご利用いただきありがとう！無料でAIFFファイルを直接WMAに高速変換するオンラインアプリ - ムーヴァビ</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>[New] Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-professional-slideshow-resources-for-entrepreneurs/"><u>[New] Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-visual-effects-with-movie-maker-for-animation-projects-for-2024/"><u>[Updated] Enhancing Visual Effects with Movie Maker for Animation Projects for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-5-best-gaming-keyboards-under-100-for-2024/"><u>[Updated] The 5 Best Gaming Keyboards Under 100$ for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/budget-friendly-laptop-picks-for-2hren-year-thorough-expert-analysis-and-ratings-zdnet/"><u>Budget-Friendly Laptop Picks for 2Hren Year: Thorough Expert Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/buy-microsoft-project-professional-and-microsoft-visio-professional-licenses-at-unbeatable-price-just-20-todays-offer-on-zdnet/"><u>Buy Microsoft Project Professional & Microsoft Visio Professional Licenses at Unbeatable Price: Just $20 - Today's Offer on ZDNet!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-ultimate-guide-to-eufy-t8200-no-subscription-video-doorbells/"><u>Expert Review: The Ultimate Guide to Eufy T8200 No-Subscription Video Doorbells</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/future-of-microsoft-exploring-the-revolutionary-shift-in-cloud-services-advertising-and-device-integration/"><u>Future of Microsoft: Exploring the Revolutionary Shift in Cloud Services, Advertising and Device Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-the-print-screen-feature-with-windowsplusshiftpluss-on-modern-windows-systems/"><u>Guide to Restoring the 'Print Screen' Feature with Windows+Shift+S on Modern Windows Systems</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/key-takeaways-from-microsofts-latest-october-updates-a-detailed-look-at-the-surface-launch-tech-news/"><u>Key Takeaways From Microsoft's Latest October Updates: A Detailed Look at the Surface Launch | Tech News</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/learn-to-record-mac-display-like-a-pro-for-2024/"><u>Learn to Record MAC Display Like a Pro for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mastering-skype-step-by-step-guide-to-capturing-high-quality-recorded-conversations/"><u>Mastering Skype: Step-by-Step Guide to Capturing High-Quality Recorded Conversations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-hottest-face-changer-apps-for-ios-and-android-devices/"><u>Updated S Hottest Face Changer Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/urgent-microsoft-faces-major-challenges-with-windows-10-just-one-year-away-from-deadline-exclusive-insight/"><u>Urgent: Microsoft Faces Major Challenges with Windows 10 Just One Year Away From Deadline [Exclusive Insight]</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/zdnets-honest-take-on-the-microsoft-surface-laptop-5-beyond-anger-merely-underwhelmed/"><u>ZDNet's Honest Take on the Microsoft Surface Laptop 5: Beyond Anger, Merely Underwhelmed</u></a></li>
 </ul></div>
 

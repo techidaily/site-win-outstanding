@@ -1,7 +1,7 @@
 ---
 title: "Staying Connected: Office 2016 & 2019 Seamless Access to MS365 Support in the Upcoming Year | TechNews"
-date: 2024-09-22T05:03:25.632Z
-updated: 2024-09-27T19:55:11.905Z
+date: 2024-09-29T17:15:30.642Z
+updated: 2024-10-02T22:57:40.862Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bring-your-images-alive-on-android-with-these-5-powerful-editors/"><u>2024 Approved Bring Your Images Alive on Android with These 5 Powerful Editors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/assassins-creed-valhalla-update-addressing-the-midgard-tribe-dispute-issue/"><u>Assassin's Creed Valhalla Update: Addressing the Midgard Tribe Dispute Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-video-visibility-using-creator-studio-wisdom/"><u>In 2024, Enhance Video Visibility Using Creator Studio Wisdom</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-mysteries-select-top-puzzle-houses/"><u>In 2024, Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/most-enjoyable-kid-approved-movies-available-on-netflix/"><u>Most Enjoyable Kid-Approved Movies Available on Netflix</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/movavi-jpgtiff/"><u>Movavi 구성표로 JPG/TIFF 이미지에 대한 원격, 무료 변환 가능</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-with-steam-modding-tips/"><u>Streamline Your Gaming Experience with Steam Modding Tips</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transformation-gratuite-de-fichiers-mpeg-en-format-swf-en-ligne-avec-movavi/"><u>Transformation Gratuite De Fichiers MPEG en Format SWF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-doom-eternal-essential-tips-if-release-is-delayed/"><u>Unlock DOOM Eternal: Essential Tips if Release Is Delayed</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/webm-e-conversao-para-flac-em-graca-ajuda-profissional-do-movavi-online/"><u>Webm E Conversão Para FLAC Em Graça: Ajuda Profissional Do Movavi Online</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/3gppavi-moveave/"><u>オンラインでの3GPPファイルAVI形式無料変換 - Moveave</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726226559534-aiffwma/"><u>ご利用いただきありがとう！無料でAIFFファイルを直接WMAに高速変換するオンラインアプリ - ムーヴァビ</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-heroes-choice-top-10-astonishing-adventure-games/"><u>[New] In 2024, Digital Heroes' Choice Top 10 Astonishing Adventure Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-secondary-footage-for-visual-impact/"><u>[Updated] Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-capture-directly-on-instagram-for-2024/"><u>[Updated] OBS Capture Directly on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quickcut-youtube-artist/"><u>[Updated] QuickCut YouTube Artist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>[Updated] Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>2024 Approved Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/access-blockbuster-films-anytime-downloading-cinema-from-crackle-for-your-desktop-or-laptop/"><u>Access Blockbuster Films Anytime: Downloading Cinema From Crackle for Your Desktop or Laptop</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-adult-content-from-sunporno-the-ultimate-guide-to-free-movie-access/"><u>Download Adult Content From SunPorno: The Ultimate Guide to Free Movie Access</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-comedy-bliss-top-free-movies-and-gifs-in-multiple-formats-mp4-mov-etc/"><u>Download Comedy Bliss: Top Free Movies & GIFs in Multiple Formats (MP4, MOV, Etc.)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/downloading-prosieben-media-files-in-high-quality-formats-mp4-mov-avi-for-pcs-and-macs/"><u>Downloading ProSieben Media Files in High-Quality Formats (MP4, MOV, AVI) for PCs & Macs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-save-nbr-tv-show-footage-as-mp4-mov-avi-files-for-easy-viewing/"><u>How to Save NBR TV Show Footage as MP4, MOV, AVI Files for Easy Viewing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-f23-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo F23 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-methods-for-capturing-sound-in-windows-11/"><u>In 2024, Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-converting-txt-pages-to-engaging-flipbooks-using-flipbuilders-graphic-and-symbol-features/"><u>Step-by-Step Guide to Converting TXT Pages to Engaging Flipbooks Using FlipBuilder's Graphic and Symbol Features</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/switching-layouts-in-your-e-book-creation-a-step-by-step-guide-with-flipbuilder/"><u>Switching Layouts in Your E-Book Creation: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/transforming-boring-content-into-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content Into Stunning Flash eBooks with FlipBuilder</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-concept-of-tagging-in-digital-contexts/"><u>Understanding the Concept of Tagging in Digital Contexts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unlocking-creativity-with-image-rotations-discover-allowed-perspectives-at-flipbuildercom/"><u>Unlocking Creativity with Image Rotations: Discover Allowed Perspectives at FlipBuilder.com</u></a></li>
 </ul></div>
 

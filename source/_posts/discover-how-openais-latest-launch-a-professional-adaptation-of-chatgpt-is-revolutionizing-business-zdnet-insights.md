@@ -1,7 +1,7 @@
 ---
 title: "Discover How OpenAI's Latest Launch: A Professional Adaptation of ChatGPT, Is Revolutionizing Business - ZDNet Insights"
-date: 2024-09-25T23:45:42.860Z
-updated: 2024-09-28T06:02:45.148Z
+date: 2024-09-29T19:53:50.193Z
+updated: 2024-10-02T18:19:22.153Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ffmpeg-and-the-art-of-audio-preservation/"><u>[New] FFmpeg and the Art of Audio Preservation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-broadcasting-twitch-to-facebook-friends-easily/"><u>[Updated] 2024 Approved Broadcasting Twitch to Facebook Friends Easily</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elite-drones-awaiting-purchase/"><u>[Updated] 2024 Approved Elite Drones Awaiting Purchase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>[Updated] File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>[Updated] Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-primeplay-videoapp-inspection/"><u>[Updated] PrimePlay VideoApp Inspection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>[Updated] Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/adding-unique-watermarks-to-every-page-of-your-flipbooks-using-flipbuilder-online-tool/"><u>Adding Unique Watermarks to Every Page of Your Flipbooks Using FlipBuilder Online Tool</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/automating-post-publish-actions-integrate-your-created-flipbooks-with-other-tools-using-flipbuilder/"><u>Automating Post-Publish Actions: Integrate Your Created FlipBooks with Other Tools [Using FlipBuilder]</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/boost-your-websites-visual-appeal-with-these-optimization-techniques-at-flipbuildercom/"><u>Boost Your Website's Visual Appeal with These Optimization Techniques at FlipBuilder.com</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/can-flipbuilder-work-with-avimp4-file-formats/"><u>Can FlipBuilder Work With AVI/MP4 File Formats?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-free-pdf-files-into-interactive-ppt-presentations-effortless-conversion-with-flipbuilder/"><u>Convert Free PDF Files Into Interactive PPT Presentations - Effortless Conversion with FlipBuilder</u></a></li>
-<li><a href="https://win11.techidaily.com/dxvk-uncovered-enhancing-win-based-gameplay-dynamics/"><u>DXVK Uncovered: Enhancing Win-Based Gameplay Dynamics</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effective-strategies-for-pdf-file-type-transformation-discover-flipbuilders-solutions/"><u>Effective Strategies for PDF File Type Transformation: Discover FlipBuilder's Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/expand-your-reach-enable-sharing-of-your-online-flipbooks-on-social-media-platforms-like-facebook-twitter-and-googleplus/"><u>Expand Your Reach: Enable Sharing of Your Online Flipbooks on Social Media Platforms Like Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://win-hot.techidaily.com/get-your-hands-on-microsoft-office-2019-at-only-25-compatible-with-windows-and-mac-discover-the-secrets-here/"><u>Get Your Hands on Microsoft Office 2019 at Only $25 - Compatible with Windows & Mac! Discover the Secrets Here</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers-for-2024/"><u>Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/movavi-transforma-tus-archivos-mov-gratuito-al-amplio-y-de-alta-calidad-en-formato-flac-en-linea/"><u>Móvavi - Transforma Tus Archivos MOV Gratuito Al Amplio Y De Alta Calidad en Formato FLAC en Línea</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/movavi-wtv/"><u>무료 방문 가능한 Movavi 스토리지에서 WTV 영상을 원산지 자바스타일로 변환하는 기술</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-comparing-m1-powered-laptops-to-videographers-needs-for-2024/"><u>[Updated] Comparing M1-Powered Laptops to Videographers' Needs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-style-with-youtubes-best-hauls-for-2024/"><u>[Updated] Elevating Your Style with YouTube's Best Hauls for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-tutorial-unmask-your-youtube-audience/"><u>[Updated] In 2024, Tutorial Unmask Your YouTube Audience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>[Updated] Laughing in the Metaverse How to Create Your Own Funny Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mirth-makers-zombie-shadowbenders/"><u>[Updated] Mirth Makers Zombie Shadowbenders</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-solving-vlc-player-crash-issues-ultimate-fixes-for-windows-1011-and-macos/"><u>1. Solving VLC Player Crash Issues: Ultimate Fixes for Windows 10/11 and macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-crash-how-to-repair-print-driver-host-on-32-bit-programs/"><u>Fixing the Crash: How to Repair 'Print Driver Host' On 32-Bit Programs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/has-microsoft-lost-its-mind-once-more-a-tale-of-paranoia-and-prudence-as-covered-by-zdnet/"><u>Has Microsoft Lost Its Mind Once More? A Tale of Paranoia and Prudence as Covered by ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-your-snapshots-anywhere-anytime-the-ultimate-cloud-choices/"><u>In 2024, Secure Your Snapshots Anywhere, Anytime The Ultimate Cloud Choices</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/integrating-ai-advancements-in-law-microsoft-copilot-joins-singapores-legal-platform/"><u>Integrating AI Advancements in Law: Microsoft Copilot Joins Singapore's Legal Platform</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/leapfrogging-tech-titans-apples-opportunity-at-wwdc-2024-to-surpass-openai-microsoft-and-google-insights-for-innovators-zdnet/"><u>Leapfrogging Tech Titans: Apple's Opportunity at WWDC 2024 to Surpass OpenAI, Microsoft, and Google | Insights for Innovators - ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mastering-microsofts-copilot-pro-writing-editing-and-analyzing-word-docs-with-ease/"><u>Mastering Microsoft's Copilot Pro: Writing, Editing & Analyzing Word Docs with Ease</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/maximizing-privacy-and-convenience-microsoft-upgrades-copilot-for-seamless-user-interactions-as-covered-by-zdnet/"><u>Maximizing Privacy & Convenience: Microsoft Upgrades Copilot for Seamless User Interactions, as Covered by ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reclaiming-your-data-tips-for-retrieving-files-after-an-iphone-factory-reset/"><u>Reclaiming Your Data: Tips for Retrieving Files After an iPhone Factory Reset</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-enhancing-your-pc-with-a-windows-pro-upgrade-from-home-edition-benefits-revealed/"><u>Step-by-Step Guide to Enhancing Your PC with a Windows Pro Upgrade From Home Edition - Benefits Revealed</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-trending-internet-browsers-a-comprehensive-review-insights-from-zdnet/"><u>Top Trending Internet Browsers: A Comprehensive Review - Insights From ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/why-microsoft-believes-setting-a-goal-of-11-is-key-to-forming-lasting-ai-training-habits-insights-from-zdnet/"><u>Why Microsoft Believes Setting a Goal of 11 Is Key to Forming Lasting AI Training Habits: Insights From ZDNet</u></a></li>
 </ul></div>
 

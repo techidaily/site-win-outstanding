@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft's Copilot Pro: Writing, Editing & Analyzing Word Docs with Ease"
-date: 2024-09-21T23:52:17.868Z
-updated: 2024-09-27T22:51:54.146Z
+date: 2024-10-01T03:27:20.062Z
+updated: 2024-10-03T06:03:24.239Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[New] 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[New] In 2024, Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-the-best-xbox-extra-storage-choices/"><u>[Updated] In 2024, Game On The Best Xbox Extra Storage Choices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>2024 Approved From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-stabilize-dragon-age-origins-and-eliminate-windows-10-interference/"><u>Guide to Stabilize Dragon Age: Origins and Eliminate Windows 10 Interference</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-v29e-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V29e Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-behind-ai-advancements-unveiling-vector-databases-explained/"><u>The Power Behind AI Advancements: Unveiling Vector Databases Explained</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tutorial-on-extracting-episodes-and-movies-from-tvp-pl-service/"><u>Tutorial on Extracting Episodes and Movies From TVP PL Service</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tutorial-on-extracting-media-from-kissasianes-for-personal-use/"><u>Tutorial on Extracting Media From KissAsian.es for Personal Use</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/ultimate-collection-of-comedy-central-videos-in-various-formats-for-easy-download-including-mp4-flv-and-others/"><u>Ultimate Collection of Comedy Central Videos in Various Formats for Easy Download - Including MP4, FLV & Others</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-to-modern-mojave-dwellings-for-2024/"><u>Ultimate Guide to Modern Mojave Dwellings for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/uninterrupted-downloads-of-viafree-tv-episodes-for-an-enjoyable-binge-watching-experience/"><u>Uninterrupted Downloads of Viafree TV Episodes for an Enjoyable Binge-Watching Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>[New] 2024 Approved Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-guide-to-hulu-recording-across-all-platforms/"><u>[New] The Complete Guide to Hulu Recording Across All Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-freeze-entire-browser-sheet/"><u>[Updated] 2024 Approved Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-defy-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Defy 2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-m6-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco M6 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from HTC U23</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-transform-your-audio-changing-aiff-recordings-to-mp3-quickly-and-effectively/"><u>How to Transform Your Audio: Changing AIFF Recordings to MP3 Quickly and Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-v29mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo V29Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/the-ultimate-selection-of-android-miracast-applications-find-the-perfect-match/"><u>The Ultimate Selection of Android Miracast Applications: Find the Perfect Match!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-mobile-photography-editors-unlock-professional-results-with-free-and-paid-options/"><u>Top Mobile Photography Editors: Unlock Professional Results with FREE and PAID Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-more-than-headlines-dissecting-fb-dossiers-objectively/"><u>Understanding More than Headlines: Dissecting FB Dossiers Objectively</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/why-switching-to-windows-11-pro-is-a-game-changer-for-your-pc-tips-and-tricks-by-zdnet-experts/"><u>Why Switching to Windows 11 Pro Is a Game-Changer for Your PC | Tips & Tricks by ZDNET Experts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-11-update-subscription-model-set-by-microsoft-starting-next-year-expected-fees-revealed-zdnet/"><u>Windows 11 Update Subscription Model Set by Microsoft Starting Next Year – Expected Fees Revealed | ZDNET</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-11s-undisclosed-trick-for-rapid-termination-of-slow-running-applications-revealed-by-zdnet/"><u>Windows 11'S Undisclosed Trick for Rapid Termination of Slow-Running Applications, Revealed by ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/winning-gamers-hearts-windows-11-triumphs-over-windows-10-in-pc-gaming/"><u>Winning Gamers' Hearts: Windows 11 Triumphs Over Windows 10 in PC Gaming</u></a></li>
 </ul></div>
 

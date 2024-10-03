@@ -1,7 +1,7 @@
 ---
 title: "Discounted Access for Singapore's Small Businesses: Deploy Microsoft Copilot Efficiently"
-date: 2024-09-23T06:48:05.604Z
-updated: 2024-09-28T00:44:27.663Z
+date: 2024-09-28T06:50:32.522Z
+updated: 2024-10-03T09:58:19.706Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,16 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -157,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,21 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-20-thumbnail-fonts-for-impressive-video-credits/"><u>[New] 2024 Approved Top 20 Thumbnail Fonts for Impressive Video Credits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exclusive-selection-of-elite-race-games/"><u>[Updated] In 2024, Exclusive Selection of Elite Race Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/discover-unique-features-of-the-missing-iphone-x/"><u>Discover Unique Features of the Missing iPhone X</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discovering-the-top-8-truly-efficient-advancement-services/"><u>Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-steelseries-graphics-driver-on-your-pc/"><u>Download and Set Up SteelSeries Graphics Driver on Your PC</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/improve-your-experience-with-windows-11-key-adjustments-to-prioritize-right-after-setup-tips-by-zdnet/"><u>Improve Your Experience with Windows 11: Key Adjustments to Prioritize Right After Setup | Tips by ZDNET</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-digital-audio-prowess-the-top-9-mic-recorders-for-23/"><u>In 2024, Digital Audio Prowess The Top 9 Mic Recorders for '23</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-video-snapshots-on-smartphones-with-optical-stabilization/"><u>In 2024, Seamless Video Snapshots on Smartphones with Optical Stabilization</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-faces-urgent-challenge-with-windows-10-just-one-year-remaining-to-find-solution-zdnet/"><u>Microsoft Faces Urgent Challenge with Windows 10: Just One Year Remaining to Find Solution | ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-redefines-windows-update-strategy-key-insights-and-implications-zdnet/"><u>Microsoft Redefines Window's Update Strategy: Key Insights & Implications - ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-unveils-strategy-on-windows-driving-hybrid-work-revolution-zdnet/"><u>Microsoft Unveils Strategy on Windows Driving Hybrid Work Revolution | ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/overcome-your-vpn-struggles-after-aprils-windows-update-with-these-expert-tips-from-zdnet/"><u>Overcome Your VPN Struggles After April’s Windows Update with These Expert Tips From ZDNet!</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-access-with-shortcuts-microsoft-store-uwp-apps/"><u>Seamless Access with Shortcuts: Microsoft Store (UWP) Apps</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/streamlining-browser-profile-management-boost-productivity-and-personalization-in-arc/"><u>Streamlining Browser Profile Management: Boost Productivity & Personalization in Arc</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-skype-calls-on-windowsmac-best-free-and-paid-strategies-for-2024/"><u>The Art of Skype Calls on Windows/Mac Best Free and Paid Strategies for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/the-race-against-time-will-intel-ever-match-qualcomm-and-save-the-future-of-x86-computers/"><u>The Race Against Time: Will Intel Ever Match Qualcomm and Save the Future of X86 Computers?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rapid-accessibility-of-instagram-videos-and-stories/"><u>[Updated] Rapid Accessibility of Instagram Videos and Stories</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/access-blockbuster-films-anytime-downloading-cinema-from-crackle-for-your-desktop-or-laptop/"><u>Access Blockbuster Films Anytime: Downloading Cinema From Crackle for Your Desktop or Laptop</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-tutorial-to-repair-blue-screen-of-death-caused-by-video-dxgkrnl-driver-in-windows-11/"><u>Complete Tutorial to Repair Blue Screen of Death Caused by Video Dxgkrnl Driver in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-sleek-and-contemporary-taotronics-tt-dl16-led-light-fixture/"><u>Comprehensive Review of the Sleek & Contemporary TaoTronics TT-DL16 LED Light Fixture</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-adult-content-from-sunporno-the-ultimate-guide-to-free-movie-access/"><u>Download Adult Content From SunPorno: The Ultimate Guide to Free Movie Access</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-comedy-bliss-top-free-movies-and-gifs-in-multiple-formats-mp4-mov-etc/"><u>Download Comedy Bliss: Top Free Movies & GIFs in Multiple Formats (MP4, MOV, Etc.)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/downloading-prosieben-media-files-in-high-quality-formats-mp4-mov-avi-for-pcs-and-macs/"><u>Downloading ProSieben Media Files in High-Quality Formats (MP4, MOV, AVI) for PCs & Macs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature service</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-4-best-websites-for-downloading-skype-ringtone/"><u>In 2024, 4 Best Websites For Downloading Skype Ringtone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-collaboration-techniques-in-video-making-viewership-up/"><u>In 2024, Collaboration Techniques in Video Making, Viewership Up</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precision-players-list-the-finest-fps-gaming-for-2024/"><u>Precision Players’ List – The Finest FPS Gaming for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/transforming-boring-content-into-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content Into Stunning Flash eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unlocking-creativity-with-image-rotations-discover-allowed-perspectives-at-flipbuildercom/"><u>Unlocking Creativity with Image Rotations: Discover Allowed Perspectives at FlipBuilder.com</u></a></li>
 </ul></div>
 
