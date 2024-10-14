@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft's Copilot Pro: Writing, Editing & Analyzing Word Docs with Ease"
-date: 2024-10-04T16:51:21.837Z
-updated: 2024-10-08T17:39:53.849Z
+date: 2024-10-08T00:50:41.963Z
+updated: 2024-10-13T22:39:39.290Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,16 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,21 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-editing-software-for-horizontal-and-vertical-igtv/"><u>[New] 2024 Approved Essential Editing Software for Horizontal & Vertical IGTV</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-maximizing-chances-to-engage-premier-filmmakers/"><u>[New] 2024 Approved Maximizing Chances to Engage Premier Filmmakers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-oculus-rift-setup/"><u>2024 Approved Comprehensive Guide to Oculus Rift Setup</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-ram-management-in-minecraft/"><u>2024 Approved Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-free-pdf-files-into-interactive-ppt-presentations-effortless-conversion-with-flipbuilder/"><u>Convert Free PDF Files Into Interactive PPT Presentations - Effortless Conversion with FlipBuilder</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effective-strategies-for-pdf-file-type-transformation-discover-flipbuilders-solutions/"><u>Effective Strategies for PDF File Type Transformation: Discover FlipBuilder's Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/expand-your-reach-enable-sharing-of-your-online-flipbooks-on-social-media-platforms-like-facebook-twitter-and-googleplus/"><u>Expand Your Reach: Enable Sharing of Your Online Flipbooks on Social Media Platforms Like Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-can-you-customize-your-flipbooks-bookmark-font-on-flipbuildercom/"><u>How Can You Customize Your Flipbook's Bookmark Font on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-discover-custom-keyword-driven-page-creation-on-flipbookers-platform/"><u>How to Discover Custom Keyword-Driven Page Creation on FlipBooker's Platform</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-well-does-flipbuildercom-work-with-av-media-formats/"><u>How Well Does FlipBuilder.com Work With AV Media Formats?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-a2-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi A2? Try These Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/inserting-a-tiny-brand-icon-into-your-browsers-taskbar-a-guide-for-flipbuilder-users/"><u>Inserting a Tiny Brand Icon Into Your Browser’s Taskbar: A Guide for FlipBuilder Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
-<li><a href="https://video-capture.techidaily.com/samurais-modern-journey-10-games-similar-to-ghost-of-tsushima/"><u>Samurai's Modern Journey 10 Games Similar to Ghost of Tsushima</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ooster-essentials-for-top-online-videos-for-2024/"><u>SEO Booster Essentials for Top Online Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhancing-youtube-music-soundscape/"><u>[New] 2024 Approved Enhancing YouTube Music Soundscape</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uture-of-virtual-game-viewership-income-for-2024/"><u>[New] Future of Virtual Game Viewership Income for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-productivity-boosters-while-binge-listening-to-podcasts/"><u>[Updated] In 2024, Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-struggles-with-activity-recognition-heres-how-to-fix-it/"><u>Apple Watch Struggles with Activity Recognition? Here’s How to Fix It!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/buy-microsoft-project-professional-and-microsoft-visio-professional-licenses-at-unbeatable-price-just-20-todays-offer-on-zdnet/"><u>Buy Microsoft Project Professional & Microsoft Visio Professional Licenses at Unbeatable Price: Just $20 - Today's Offer on ZDNet!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-for-fixing-the-perplexing-unknown-usb-and-failed-port-reset-challenges-on-windows-11-devices/"><u>Definitive Solutions for Fixing the Perplexing Unknown USB and Failed Port Reset Challenges on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/direct-transformation-from-gif-to-video-with-best-web-services/"><u>Direct Transformation From GIF to Video with Best Web Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficiently-fit-your-excel-data-into-just-one-printed-page-a-step-by-step-guide/"><u>Efficiently Fit Your Excel Data Into Just One Printed Page – A Step by Step Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/get-started-now-comprehensive-action-guide-and-user-manual/"><u>Get Started Now: Comprehensive Action Guide & User Manual</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/high-definition-video-capture-with-splash-20-screen-recorder/"><u>High-Definition Video Capture with Splash 2.0 Screen Recorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-yuva-2-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Lava Yuva 2 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-guide-mastering-action-activation-and-update-processes/"><u>How-To Guide: Mastering Action, Activation & Update Processes</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/key-takeaways-from-microsofts-latest-october-updates-a-detailed-look-at-the-surface-launch-tech-news/"><u>Key Takeaways From Microsoft's Latest October Updates: A Detailed Look at the Surface Launch | Tech News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-tp-link-wireless-network-adapter-driver-for-windows-users-supports-win11-8-and-7/"><u>Latest TP-Link Wireless Network Adapter Driver for Windows Users: Supports Win11, 8 & #7</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mastering-skype-step-by-step-guide-to-capturing-high-quality-recorded-conversations/"><u>Mastering Skype: Step-by-Step Guide to Capturing High-Quality Recorded Conversations</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/ultimate-collection-of-comedy-central-videos-in-various-formats-for-easy-download-including-mp4-flv-and-others/"><u>Ultimate Collection of Comedy Central Videos in Various Formats for Easy Download - Including MP4, FLV & Others</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/uninterrupted-downloads-of-viafree-tv-episodes-for-an-enjoyable-binge-watching-experience/"><u>Uninterrupted Downloads of Viafree TV Episodes for an Enjoyable Binge-Watching Experience</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/zdnets-honest-take-on-the-microsoft-surface-laptop-5-beyond-anger-merely-underwhelmed/"><u>ZDNet's Honest Take on the Microsoft Surface Laptop 5: Beyond Anger, Merely Underwhelmed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726226395630-movavi-gif-3gp/"><u>무료 제공: Movavi의 시대화 GIF 라이브리스 3GP 영상을 위해서는 웹 사이트를 통해 원하는 모드로 변환</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shatters Expectations with Easily Repairable Latest Laptop Lineup: A Bold Challenge to Competitors Like Apple"
-date: 2024-10-06T16:08:25.488Z
-updated: 2024-10-08T16:32:00.840Z
+date: 2024-10-11T08:31:23.312Z
+updated: 2024-10-13T21:29:50.881Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>[Updated] 2024 Approved Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-a-beginners-guide-understanding-discord-stickers-for-2024/"><u>[Updated] A Beginner's Guide Understanding Discord Stickers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tips-to-improve-visual-integrity-while-watching-youtube-content/"><u>[Updated] In 2024, Tips to Improve Visual Integrity While Watching YouTube Content</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726218533831-movavi/"><u>電影後期製作精要：用 Movavi 軟體，易如反掌的剪接技術教程與免費下載</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/bedzinova-konvertera-gratis-avifilter-online-movavicz/"><u>Bedzinova Konvertera Gratis: Avifilter Online - movavi.cz</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/conversione-gratuita-da-wma-ad-avi-online-con-movavi-trasforma-i-tuoi-file/"><u>Conversione Gratuita Da WMA Ad AVI Online Con Movavi - Trasforma I Tuoi File</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/free-online-conversion-transform-tta-files-with-movavis-effortless-tools/"><u>Free Online Conversion: Transform TTA Files with Movavi's Effortless Tools</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/free-online-converter-change-wmv-files-to-high-quality-aiff-audio/"><u>Free Online Converter: Change WMV Files to High-Quality AIFF Audio</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-fb-event-creation-a-step-by-step-guide/"><u>Mastering FB Event Creation: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/outsmart-xboxs-premium-price-spike-with-tactics/"><u>Outsmart Xbox's Premium Price Spike with Tactics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/revolutionary-ios-enhancements-await-why-the-new-iphone-16-is-worth-your-attention/"><u>Revolutionary iOS Enhancements Await: Why the New iPhone 16 Is Worth Your Attention</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/taglia-il-tuo-video-su-mac-metodo-facile-e-rapido-usando-movavi/"><u>Taglia Il Tuo Video Su Mac: Metodo Facile E Rapido Usando Movavi</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-definitive-fix-for-catastrophic-event-tracing-failures-on-your-windows-11-pc/"><u>The Definitive Fix for Catastrophic Event Tracing Failures on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-youtube-banner-creation-services-ranked-discover-the-best-online-tools-and-expert-tips-for-stunning-channel-art/"><u>Top YouTube Banner Creation Services Ranked! Discover the Best Online Tools and Expert Tips for Stunning Channel Art.</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transforma-tu-musica-mp3-a-formatos-superiores-como-mp4-sin-costo-con-movavi-hazlo-en-linea-hoy/"><u>Transforma Tu Música MP3 a Formatos Superiores Como MP4 Sin Costo Con Movavi - ¡Hazlo en Línea Hoy!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-free-online-tools-for-precise-srt-translation/"><u>[New] 2024 Approved Best FREE Online Tools for Precise SRT Translation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-sonic-sweepstakes-top-tunes-for-viral-youtube-short-videos/"><u>[Updated] 2024 Approved Sonic Sweepstakes Top Tunes for Viral YouTube Short Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[Updated] In 2024, Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G23</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/access-blockbuster-films-anytime-downloading-cinema-from-crackle-for-your-desktop-or-laptop/"><u>Access Blockbuster Films Anytime: Downloading Cinema From Crackle for Your Desktop or Laptop</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-adult-content-from-sunporno-the-ultimate-guide-to-free-movie-access/"><u>Download Adult Content From SunPorno: The Ultimate Guide to Free Movie Access</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-comedy-bliss-top-free-movies-and-gifs-in-multiple-formats-mp4-mov-etc/"><u>Download Comedy Bliss: Top Free Movies & GIFs in Multiple Formats (MP4, MOV, Etc.)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/downloading-prosieben-media-files-in-high-quality-formats-mp4-mov-avi-for-pcs-and-macs/"><u>Downloading ProSieben Media Files in High-Quality Formats (MP4, MOV, AVI) for PCs & Macs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-save-nbr-tv-show-footage-as-mp4-mov-avi-files-for-easy-viewing/"><u>How to Save NBR TV Show Footage as MP4, MOV, AVI Files for Easy Viewing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-6s-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 6s Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-windows-operations-ais-influence-on-11th-edition/"><u>Reimagining Windows Operations: AI's Influence on 11Th Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-site-visibility-how-artificer-intelligence-is-shaping-search-engine-results/"><u>Revolutionizing Site Visibility: How Artificer Intelligence Is Shaping Search Engine Results</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862717271-score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-converting-txt-pages-to-engaging-flipbooks-using-flipbuilders-graphic-and-symbol-features/"><u>Step-by-Step Guide to Converting TXT Pages to Engaging Flipbooks Using FlipBuilder's Graphic and Symbol Features</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/switching-layouts-in-your-e-book-creation-a-step-by-step-guide-with-flipbuilder/"><u>Switching Layouts in Your E-Book Creation: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/title-ai-powered-treatment-personalization-tailoring-care-for-better-results/"><u>Title: AI-Powered Treatment Personalization - Tailoring Care for Better Results</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/transforming-boring-content-into-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content Into Stunning Flash eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unlocking-creativity-with-image-rotations-discover-allowed-perspectives-at-flipbuildercom/"><u>Unlocking Creativity with Image Rotations: Discover Allowed Perspectives at FlipBuilder.com</u></a></li>
 </ul></div>
 

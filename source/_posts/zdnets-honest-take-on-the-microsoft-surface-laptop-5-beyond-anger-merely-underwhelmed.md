@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Honest Take on the Microsoft Surface Laptop 5: Beyond Anger, Merely Underwhelmed"
-date: 2024-10-07T16:17:19.594Z
-updated: 2024-10-08T17:39:19.600Z
+date: 2024-10-08T07:02:56.133Z
+updated: 2024-10-14T11:31:46.666Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,22 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-best-free-cloud-based-video-editing-tools/"><u>[New] 2024 Approved The Best Free, Cloud-Based Video Editing Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-video-marketing-mastery-for-affiliate-success/"><u>[New] In 2024, Video Marketing Mastery for Affiliate Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-prime-streaming-services-ranked-a-comparison-analysis/"><u>[Updated] In 2024, Prime Streaming Services Ranked A Comparison Analysis</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/alternatives-to-icloud-on-android-the-best-solutions-compared/"><u>Alternatives to iCloud on Android: The Best Solutions Compared</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/discover-the-leading-7-photo-editor-tools-for-smartphones-ideal-for-ios-and-android-users/"><u>Discover the Leading 7 Photo Editor Tools for Smartphones – Ideal for iOS & Android Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/exploring-the-edge-of-screen-innovation-with-benq-sw320-for-2024/"><u>Exploring the Edge of Screen Innovation with BenQ SW320 for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-c33-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme C33 2023 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y27s-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y27s</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 Phone without Google Account?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mastering-image-editing-techniques-to-eliminate-transparency-in-graphics/"><u>Mastering Image Editing: Techniques to Eliminate Transparency in Graphics</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/quick-tips-effortless-methods-for-organizing-iphone-contacts/"><u>Quick Tips: Effortless Methods for Organizing iPhone Contacts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-clearing-out-photos-from-your-icloud-account/"><u>Step-by-Step Guide: Clearing Out Photos From Your iCloud Account</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-7-easy-ways-to-secure-your-pdfs-with-passwords/"><u>Top 7 Easy Ways to Secure Your PDFs with Passwords</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-methods-for-successfully-recording-google-hangouts-a-guide-for-pc-and-mac-users/"><u>Top Methods for Successfully Recording Google Hangouts: A Guide for PC and Mac Users</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/ultimate-guide-mastering-animal-crossing-pocket-camp-on-your-computer/"><u>Ultimate Guide: Mastering Animal Crossing: Pocket Camp on Your Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-beyond-gaming-vr-uses-for-2024/"><u>[New] Beyond Gaming VR Uses for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[New] Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-spectacular-video-connections-quest/"><u>[Updated] 2024 Approved Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-7-cameras-to-document-your-fresh-powder-runs/"><u>[Updated] In 2024, Top 7 Cameras to Document Your Fresh Powder Runs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-topography-of-youtube-content-popularity/"><u>2024 Approved Topography of YouTube Content Popularity</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1726218932832-movaviwav3gp/"><u>無版税直接移動：MOVAVI工具下将WAV格式转换成3GP</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easily-transform-your-wmv-media-into-high-quality-mp4-no-cost-allowed-by-movavi-technology/"><u>Easily Transform Your WMV Media Into High-Quality MP4 - No Cost, Allowed by Movavi Technology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/free-effortless-conversion-of-m4v-files-to-mp4-format-moveavis-quick-guide/"><u>Free Effortless Conversion of M4V Files to MP4 Format - Moveavi's Quick Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/m4vavi/"><u>M4VからAVIへのオンライン変換ツール - 無料で利用可能</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-tune-in-to-technology-exploring-advanced-tools-for-music-production-and-editing/"><u>New 2024 Approved Tune in to Technology Exploring Advanced Tools for Music Production and Editing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windows-10-iso-disk-burning-guide-effizientes-kopieren-mit-winx-dvd-copy-professional/"><u>Windows 10 ISO Disk Burning Guide: Effizientes Kopieren Mit WinX DVD Copy Professional</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/m4vwebm-web-vimeo/"><u>제공된 M4V/WEBM 비디오를 원할 수 있는 편리한 Web용 Vimeo 바인딩 송신서</u></a></li>
 </ul></div>
 

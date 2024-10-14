@@ -1,7 +1,7 @@
 ---
 title: Has Microsoft Lost Its Mind Once More? A Tale of Paranoia and Prudence as Covered by ZDNet
-date: 2024-10-06T17:03:23.439Z
-updated: 2024-10-08T16:10:37.233Z
+date: 2024-10-11T05:40:52.438Z
+updated: 2024-10-13T20:43:35.785Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-quick-quality-grabs-for-your-vids/"><u>[New] In 2024, Quick, Quality Grabs for Your Vids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-protouch-4k-uniscreen-hub-systems/"><u>[New] ProTouch 4K UniScreen Hub Systems</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/aiffm4r-movavi/"><u>無條件網路Aiff到M4r格式自由過渡 - 利用Movavi的智能轉化工具</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/chromeos-direct-screens-capture-tool/"><u>ChromeOS Direct Screens Capture Tool</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-videos-to-mp4-with-mts-to-mp4-online-a-quick-guide/"><u>Convert Videos to MP4 with MTS to MP4 Online: A Quick Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dells-vision-for-the-future-with-an-insight-into-p2715q-monitor-specs/"><u>Dell's Vision for the Future with an Insight Into P2715Q Monitor Specs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-redmi-note-12-proplus-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Xiaomi Redmi Note 12 Pro+ 5G Phones</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/movavi-jpgtiff/"><u>Movavi 구성표로 JPG/TIFF 이미지에 대한 원격, 무료 변환 가능</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-beginners-paradise-the-best-free-and-paid-video-editing-software-for-2024/"><u>New Beginners Paradise The Best Free and Paid Video Editing Software for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/original-movie-recording-dissection-and-substitute-series/"><u>Original Movie Recording Dissection & Substitute Series</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-quick-and-easy-flac-to-aiff-file-transformation/"><u>Step-by-Step Guide: Quick and Easy FLAC to AIFF File Transformation</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transformation-gratuite-de-fichiers-mpeg-en-format-swf-en-ligne-avec-movavi/"><u>Transformation Gratuite De Fichiers MPEG en Format SWF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/webm-e-conversao-para-flac-em-graca-ajuda-profissional-do-movavi-online/"><u>Webm E Conversão Para FLAC Em Graça: Ajuda Profissional Do Movavi Online</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/3gppavi-moveave/"><u>オンラインでの3GPPファイルAVI形式無料変換 - Moveave</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726226559534-aiffwma/"><u>ご利用いただきありがとう！無料でAIFFファイルを直接WMAに高速変換するオンラインアプリ - ムーヴァビ</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-virtual-frontiers-notable-vr-creators/"><u>[Updated] 2024 Approved Virtual Frontiers Notable VR Creators</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1-how-to-download-byu-tv-shows-in-various-formats-like-mp4-wmv-and-more/"><u>1. How to Download BYU TV Shows in Various Formats Like MP4, WMV, and More</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/blastro-music-video-downloads-in-multiple-formats-mp4-wmv-avi-compatible-with-mac-and-windows/"><u>Blastro Music Video Downloads in Multiple Formats: MP4, WMV, AVI - Compatible with Mac & Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/combat-latency-in-call-of-dutys-warzone-20-with-these-expert-tips-2er-2024/"><u>Combat Latency in Call of Duty's Warzone 2.0 with These Expert Tips - 2Er 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-save-moviefone-show-downloads-in-mp4avi-format-for-pcs-and-macs/"><u>Convert & Save Moviefone Show Downloads in MP4/AVI Format for PCs & Macs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-download-your-favorite-xboxclip-videos-in-multiple-formats-mp4-mov-avi-flv-wmv-mkv-etc/"><u>Convert and Download Your Favorite XboxClip Videos in Multiple Formats: MP4, MOV, AVI, FLV, WMV, MKV, Etc</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevate-your-streaming-experience-a-comprehensive-review-of-the-opal-tadpole-upgrade-for-inferior-laptop-cams/"><u>Elevate Your Streaming Experience: A Comprehensive Review of the Opal Tadpole Upgrade for Inferior Laptop Cams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-reality-7-powerful-ways-chatgpt-processes-images/"><u>From Concept to Reality: 7 Powerful Ways ChatGPT Processes Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X7b Phone without Google Account?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/skype-recording-procedures-streamlined-techniques-for-windows-and-os-x/"><u>Skype Recording Procedures - Streamlined Techniques for Windows & OS X</u></a></li>
 </ul></div>
 
