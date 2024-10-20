@@ -1,7 +1,7 @@
 ---
 title: "Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology"
-date: 2024-10-07T18:55:11.930Z
-updated: 2024-10-14T06:37:50.114Z
+date: 2024-10-15T19:18:31.349Z
+updated: 2024-10-20T06:32:02.775Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,13 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Goodbye TCP
 
 Before we get to further details, a few words about UDP (User Datagram Protocol), a new technology that Google has been working on. This TCP replacement is designed to make transmissions much smoother and faster by removing many of the unnecessary functions that TCP performs.
@@ -89,10 +96,16 @@ As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googl
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
@@ -103,25 +116,11 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -135,23 +134,37 @@ Other browser and software makers will, undoubtedly, add support for this new st
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from traditional HTTP. Designed to work around the limitations of that protocol, HTTP/3 will serve as a combination of SSL and TCP to cut down on initial connection times and speed up the modern web.
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
@@ -183,21 +196,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-elemental-story-framework/"><u>[New] 2024 Approved Elemental Story Framework</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-making-every-frame-count-in-instagram-videos/"><u>[New] 2024 Approved Making Every Frame Count in Instagram Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-dominating-the-digital-space-from-5000-to-over-a-million-views-for-2024/"><u>[New] Dominating the Digital Space From 5,000 to Over a Million Views for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accelerate-writing-processes-with-ai-tools/"><u>Accelerate Writing Processes With AI Tools</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/automating-post-publish-actions-integrate-your-created-flipbooks-with-other-tools-using-flipbuilder/"><u>Automating Post-Publish Actions: Integrate Your Created FlipBooks with Other Tools [Using FlipBuilder]</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/boost-your-websites-visual-appeal-with-these-optimization-techniques-at-flipbuildercom/"><u>Boost Your Website's Visual Appeal with These Optimization Techniques at FlipBuilder.com</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/can-flipbuilder-work-with-avimp4-file-formats/"><u>Can FlipBuilder Work With AVI/MP4 File Formats?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-free-pdf-files-into-interactive-ppt-presentations-effortless-conversion-with-flipbuilder/"><u>Convert Free PDF Files Into Interactive PPT Presentations - Effortless Conversion with FlipBuilder</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-instagram-story-upload-errors-effectively/"><u>Diagnosing and Repairing Instagram Story Upload Errors Effectively</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effective-strategies-for-pdf-file-type-transformation-discover-flipbuilders-solutions/"><u>Effective Strategies for PDF File Type Transformation: Discover FlipBuilder's Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/expand-your-reach-enable-sharing-of-your-online-flipbooks-on-social-media-platforms-like-facebook-twitter-and-googleplus/"><u>Expand Your Reach: Enable Sharing of Your Online Flipbooks on Social Media Platforms Like Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-can-you-customize-your-flipbooks-bookmark-font-on-flipbuildercom/"><u>How Can You Customize Your Flipbook's Bookmark Font on FlipBuilder.com?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s24-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S24 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-guide-to-control-video-pace-in-instagram/"><u>In 2024, Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y27s-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y27s for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728492441329-2/"><u>ファイルの完全な構造を維持しながら、2つの手順でパスワード付きデータの回復</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-videos-with-effective-end-credits/"><u>[New] Enhancing Vimeo Videos with Effective End Credits</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] In 2024, Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-regain-access-to-confidential-snapshots/"><u>2024 Approved Regain Access to Confidential Snapshots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-snap-instantly-with-iphone-time-lapse-tips/"><u>2024 Approved Snap Instantly with iPhone Time Lapse Tips</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5ogi5asn6kkr5rif56m66k6w5bplusg5y2h5lik55qe54wn54mh4ocu6ycj5ye65pya5l2z6l2v5lu25bel5yw36kej5yaz5pa55rov/"><u>恢复被清空记忆卡上的照片—选出最佳软件工具解决方法</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/seagate-usb/"><u>如何恢复意外格式化的 Seagate USB 存储设备</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/comment-deplacer-avec-efficacite-les-donnees-de-windows-11-vers-un-nouveau-disque-dur-ssd-ou-hdd/"><u>Comment Déplacer Avec Efficacité Les Données De Windows 11 Vers Un Nouveau Disque Dur SSD Ou HDD ?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/comparatif-de-logiciels-xcopy-vs-robocopy-pour-la-sauvegarde-des-fichiers-les-plus-recents/"><u>Comparatif De Logiciels: Xcopy vs Robocopy Pour La Sauvegarde Des Fichiers Les Plus Récents</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/das-problem-losen-verbinden-des-samsung-t7-mit/"><u>Das Problem Lösen: Verbinden Des Samsung T7 Mit</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-a-tool-like-balenaetcher-etcher-or-unetbootin/"><u>Download a Tool Like balenaEtcher, Etcher, or UNetbootin.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-for-smooth-screen-sharing-on-skype-while-working-from-home-for-2024/"><u>Essential Tips for Smooth Screen Sharing on Skype While Working From Home for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nubia-z50s-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nubia Z50S Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-itel-p55t-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Itel P55T Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mkv-file-trimming-made-easy-free-tools-for-2024/"><u>New MKV File Trimming Made Easy Free Tools for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/resolving-issues-with-windows-server-2012s-inability-to-perform-successful-backups-to-nas/"><u>Resolving Issues with Windows Server 2012'S Inability to Perform Successful Backups to NAS</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/trouver-la-solution-a-lerreur-de-parametre-dans-les-disques-durs-externes-les-meilleures-pratiques/"><u>Trouver La Solution À L'Erreur De Paramètre Dans Les Disques Durs Externes : Les Meilleures Pratiques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-secrets-behind-the-lenovo-ideapads-attractive-build-and-simple-power/"><u>Unveiling the Secrets Behind the Lenovo Ideapad's Attractive Build and Simple Power</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-wax-video-editing-software-tips-tricks-and-tutorials/"><u>Updated Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728502261833-windowsiphone/"><u>WindowsでiPhoneからパソコンへ画像移動法：失敗したときの解決策</u></a></li>
 </ul></div>
 

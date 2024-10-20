@@ -1,7 +1,7 @@
 ---
 title: "1. IFind Data Rescue: The Ultimate Guide to Retrieve Lost Microsoft Word Drafts with iFinD Tech Solutions"
-date: 2024-10-07T16:38:31.972Z
-updated: 2024-10-13T18:54:48.676Z
+date: 2024-10-18T06:41:09.726Z
+updated: 2024-10-20T03:03:58.919Z
 tags:
   - product
 categories:
@@ -24,18 +24,18 @@ Microsoft Word is one of the most popular software in the world. It’s Not only
 
 We will show you some simple tips for how to recover unsaved word document today, and also for your deleted and corrupted word files.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Recover Unsaved Word Document
 
 ### **_Notice: The following tips work for Microsoft Word 2003/2007/2010/2013/2016/2019_**
 
 When you closed the Doc file unsaved, or your word crashed, you may lost some part of your work. To recover unsaved word document, you can follow the next tips:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 1:** Recover Unsaved Word Documents From Word Autosave
 
@@ -51,13 +51,6 @@ With this feature, Recover Autosave Word is easy and self-acting, The word will 
 
 Word Autorecover is a building-in function of Microsoft office for saving your file copy at a custom setup period automatically. You can use these copies to recover your unsaved word documents when you forgot to save the word document, your word crashed, or your PC suddenly shut down.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips: AutoRecover Setting Locations
 
 * Word 2003: **Tools** – **Options**
@@ -67,13 +60,6 @@ Word Autorecover is a building-in function of Microsoft office for saving your f
 Normally, Word will display a notice of Document Recovery task pane after starting if it finds some autorecover files.
 
 ![Document Recovery task pane](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/Document-Recovery-task-pane.jpg?resize=640%2C360&ssl=1)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 But if nothing happened, You can still use Word or windows explorer to search the Autorecover files(\*.asd) to for recover manually.
 
@@ -90,24 +76,24 @@ We try to give you the easiest way for various versions to search and find the a
 
 ![word backup](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/word-backup.jpg?resize=640%2C229&ssl=1)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 First, you need to select the “Always create backup copy” option in File – Options – Advanced. Then, the word will store a \*.wbk backup file for you. So you have a chance to recover the unsaved files by using these backup files.
 
 The easiest way to get the backup files is also using windows search for \*.wbk files. A little more hit, they are usually also named by “Backup of”+” your original filename”. After you locate the files, all you need to do is using word to open it. Remember to change the file type to all so that you can let the backup files appear in your browser.
 
 ![Files of type](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/Files-of-type.jpg?resize=640%2C202&ssl=1)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This tip works for all word including word 2002/2003/2007/2010/2013/2016/2019
 
@@ -116,15 +102,22 @@ This tip works for all word including word 2002/2003/2007/2010/2013/2016/2019
 | Word 2010           | File – Recent – Recover Unsaved Documents                      |
 | Word 2013/2016/2019 | File – Open – Recent – Recover Unsaved Documents               |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 4:** Recover Unsaved Word Documents from word temporary files
 
 ![word tmp](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/word-tmp.jpg?resize=552%2C168&ssl=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you still got no luck with the tips above, you can try the word temporary files to restore unsaved word documents. They are the files with the extension of “.tmp”, and a part of the temp file name begins with the character “\~”.
@@ -137,10 +130,10 @@ We have a detailed article for [Restore Deleted Files With Previous Versions Tab
  If you had set up your File History or Backup, and The windows just saved your word file at the right time, you may have a chance to get your word document back.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Practices for your Word Documents Safety
@@ -159,6 +152,13 @@ Also, we may also face other problems besides word document not saved, such as l
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
@@ -175,6 +175,19 @@ Andy is an editor of the iFinD Team. She worked in this big family since her gra
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/10/How-To-Recover-Deleted-Photos-Pictures-From-SD-Card-1.jpg?fit=640%2C426&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/ "How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?")
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### [How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/ "How to Recover Deleted Photos from a Formatted/Corrupted SD Card for Free?")
 
 October 31, 2018
@@ -182,13 +195,6 @@ October 31, 2018
 In "Knowledge Base"
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Windows_10.png?fit=1025%2C576&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### [How To Recover Permanently Deleted Files in Windows PC & Prevent Data Loss Forever | 2024?](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
 
@@ -221,19 +227,24 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-ipodcast-exploration-techniques-with-the-iphone-for-2024/"><u>[New] IPodcast Exploration Techniques with the iPhone for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-inside-the-evolved-sony-bdp-s6700-world/"><u>[Updated] Inside the Evolved Sony BDP-S6700 World</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-impact-in-snapchat-spotlight/"><u>[Updated] Maximizing Impact in Snapchat Spotlight</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/budget-friendly-laptop-picks-for-2hren-year-thorough-expert-analysis-and-ratings-zdnet/"><u>Budget-Friendly Laptop Picks for 2Hren Year: Thorough Expert Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-ring-wireless-doorbell-battery-edition/"><u>Comprehensive Evaluation: Ring Wireless Doorbell - Battery Edition</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/future-of-microsoft-exploring-the-revolutionary-shift-in-cloud-services-advertising-and-device-integration/"><u>Future of Microsoft: Exploring the Revolutionary Shift in Cloud Services, Advertising and Device Integration</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-windows-11-sets-a-new-benchmark-for-out-of-the-box-security-with-microsofts-latest-innovations-featured-on-zdnet/"><u>How Windows 11 Sets a New Benchmark for Out-of-the-Box Security with Microsoft's Latest Innovations | Featured on ZDNET</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-tricks-faster-video-loading/"><u>In 2024, TikTok Tricks Faster Video Loading</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-announces-new-payment-plan-for-windows-11-updates-starting-next-year-expected-prices-revealed-by-zdnet/"><u>Microsoft Announces New Payment Plan for Windows 11 Updates Starting Next Year – Expected Prices Revealed by ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-copilot-set-to-revolutionize-singapores-legal-tech-landscape-zdnet/"><u>Microsoft Copilot Set to Revolutionize Singapore’s Legal Tech Landscape - ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-directx-issues-in-fifa-20-gameplay-smoothening/"><u>Resolved: Troubleshooting DirectX Issues in FIFA 20 - Gameplay Smoothening</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/revive-your-aging-pc-before-microsofts-deadline-top-5-free-solutions-for-windows-1011-users-techdigest/"><u>Revive Your Aging PC Before Microsoft's Deadline: Top 5 FREE Solutions for Windows 10/11 Users | TechDigest</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fix-your-logitech-g-pro-x-microphone-malfunctions-easily/"><u>Solved: Fix Your Logitech G Pro X Microphone Malfunctions Easily</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[New] In 2024, Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-social-media-giant-to-premium-format-mastering-insta-to-mp4-2-ways-for-2024/"><u>[Updated] From Social Media Giant to Premium Format Mastering Insta-to-MP4 2 Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-essential-steps-for-fb-file-transfers-on-linux-mac/"><u>[Updated] In 2024, Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-1199top4/"><u>「Windows 11アップデート完了に苦戦する方々へ向けて、99%順延を解消するための最強メソッドTOP4」</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1-windows-11/"><u>1. Windows 11 復原點設定步驟：視覺化方法和命令行選項</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/10-guia-completa/"><u>10 - Guía Completa</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-path-to-profitable-videography-starting-strong/"><u>2024 Approved The Path to Profitable Videography Starting Strong</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728499495471-windows-115/"><u>轻松修复Windows 11无法进行關機保存的问题，5个有效解决方法</u></a></li>
+<li><a href="https://win-help.techidaily.com/aomei-backup-scopri-chi-siamo-e-come-possiamo-proteggere-i-tuoi-dati/"><u>AOMEI Backup: Scopri Chi Siamo E Come Possiamo Proteggere I Tuoi Dati</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>In 2024, Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-methods-to-transfer-data-from-ghosted-hdd-to-ssd-on-windows-11/"><u>Simple Methods to Transfer Data From Ghosted HDD to SSD on Windows 11</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-steps-to-set-up-your-windows-11-recovery-disk/"><u>Simple Steps to Set Up Your Windows 11 Recovery Disk</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/sync-your-files-with-google-drive-quickly-discover-3-simple-strategies/"><u>Sync Your Files with Google Drive Quickly: Discover 3 Simple Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transfer-files-between-ipad-and-mac-a-step-by-step-tutorial-for-sharing-videos-photos-and-songs/"><u>Transfer Files Between iPad and Mac: A Step-by-Step Tutorial for Sharing Videos, Photos & Songs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-steps-for-resolving-system-image-restore-fails-with-error-code-0x80042412-on-windows-7-8-and-10/"><u>Troubleshooting Steps for Resolving System Image Restore Fails with Error Code 0X80042412 on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/tutorial-resetting-deleted-images-in-windows-via-discord/"><u>Tutorial Resetting Deleted Images in Windows via Discord</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728479482879-pst/"><u>マスタリング PST バックアップの段階的保存方法 - 詳しく解説</u></a></li>
 </ul></div>
 
