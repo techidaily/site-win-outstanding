@@ -1,7 +1,7 @@
 ---
 title: Essential Information on Android Security Risks & Effective Defense Tactics
-date: 2024-10-19T05:08:35.097Z
-updated: 2024-10-26T02:01:42.321Z
+date: 2024-10-26T02:12:30.603Z
+updated: 2024-10-31T21:19:59.744Z
 tags:
   - product
   - antivirus
@@ -79,10 +79,10 @@ Last but certainly not least, we have Pandora.2, a trojan malware that’s been 
 What’s truly alarming? Pandora.2 uses your device as a pawn in its botnet chess game, initiating DDoS attacks. It’s a descendant of the notorious Linux.Mirai trojan, which has been instigating DDoS attacks against big players like GitHub, Twitter, Reddit, Netflix, Airbnb, and more since 2016.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### CherryBIOS and FakeTrade
@@ -94,10 +94,10 @@ The first campaign leveraged popular social networking platforms to promote frau
 Meanwhile, another campaign that employed several fraudulent money-earning apps involved the FakeTrade malware. These apps claim to be e-commerce platforms that promise increased income for users via referrals and top-ups. However, users will be unable to withdraw their funds when they attempt to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Unsupported Compression
@@ -108,37 +108,31 @@ This is not a malware but a penetrate malware bypassing detection tools. Accordi
 
 Joker is a spyware that gathers contact lists, SMS messages, and details about affected devices. Joker also has the capacity to register the device for premium services without the owner’s consent, monetising the malware infection.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Harly Trojan
 
 Harly obtains data about the user’s device, especially data about the mobile network, in an improper manner. The entire payload is contained within the app by the Harly family of Trojans, which employ various techniques to decode and launch it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **FakeDolphin**
 
 FakeDolphin is a malicious program that gives Dolphin browser as the alternative to your default browser, most commonly Google Chrome. The Dolphin browser is a fake browser containing a Trojan that automatically sign-up users up for its services without their permission. Generally, users are forced to download the Dolphin browser by unintentional redirection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **GinMaster**
 
 GinMaster, also known as the GingerMaster, was first detected in 2011\. Today it comprises 6% of the total malware attacks on Android. After entering the device, the GinMaster installs its root shell deep into the device partition to remain undetected. In the last decade, cybercriminals have created so many varieties of the GinMaster and used it for various malicious purposes like stealing sensitive information, remotely controlling the device, spying, and more. The reason GinMaster is spreading rapidly is that it attaches itself to legitimate applications, and users unintentionally install it with them.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ExoBot**
 
@@ -148,16 +142,22 @@ ExoBot is one of the most dangerous banking Android malware. Though it was parti
 
 Android Police Virus (APV) is a type of Ransomware. It can block the entire system and encrypt all the files and applications. The Android Police Virus is the newly designed Android version of the famous FBI virus.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **FakeInst**
 
 FakeInst is one of the most widely spread Android malware. It is categorized under Trojan malware and is responsible for 22% of the total Android malicious attacks. FakeInst appears to be an installer program, but after the execution, the malware automatically sends premium-rate text messages.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **BlackRock Malware**
 
@@ -168,22 +168,15 @@ BlackRock is another Android trojan-type malware that is accounted for stealing 
 OpFake is a family of viruses that attacks Opera Browser and acts as its downloader. The attacker behind the OpFake silently monitors the user activities and sends premium-rate SMS through the victim’s device. It is spread in various ways, like through intriguing pop-ups, fake opera updates, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Basebridge**
 
 Basebridge is a [spyware-type](https://tools.techidaily.com/malwarefox/products/) malware that infiltrates Android devices. It is known for spying on users, stealing sensitive data from the smartphone, and sending it remotely to the attackers behind it. Additionally, it can also block data consumption monitoring.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **KungFu**
 
@@ -192,6 +185,13 @@ KungFu is a[rootkit-type malware](https://tools.techidaily.com/malwarefox/produc
 ### **Ghost Push virus**
 
 Ghost Push is an Android malware that explicitly targets the device running on or below Android Nougat (Android 7.0). It is a type of rootkit that, after infiltrating the system, can perform various functions on the phone without user permission. The Ghost Push lives up to its name. It does not vanish even after hard resetting the system. Only reflashing the firmware can remove it from the device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## List of known Android Malware Apps 2024
 
@@ -252,16 +252,16 @@ With the growing dependency on modern gadgets like smartphones, tablets, smart T
 1. ![](https://secure.gravatar.com/avatar/888c56021c106e3cdbf1d95ae124105f?s=50&d=mm&r=g)  
 Rosalie  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [May 1, 2023 at 2:38 pm](https://tools.techidaily.com/malwarefox/products/)  
 I have Total AV and have been using it for 2 and a half years and haven’t had any Viruses and things I recommend it I give it 4and a half stars.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -288,24 +288,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k-for-2024/"><u>[New] Screen Selection Dilemma UltraWide Monitors versus UHD 4K for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-masterclass-building-hype-with-solo-podcasts/"><u>[Updated] In 2024, Masterclass Building Hype with Solo Podcasts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1-10-tahapan-simplifiklik-waktu-langsung-mengembali-berkas-yang-hapus-di-windows-10-tanpa-biaya/"><u>1. 10 Tahapan SimplifiKlik: Waktu Langsung Mengembali Berkas Yang Hapus Di Windows 10 Tanpa Biaya</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>2024 Approved Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728498398632-aomei-image-deploy/"><u>安全點亮 AOMEI Image Deploy：您的鏡像部署視頻教程</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-drivers-on-windows-11-the-easiest-way/"><u>How to Update Drivers on Windows 11 the Easiest Way</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-bargain-stopwatches-online/"><u>In 2024, Best Bargain Stopwatches Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-access-to-xps-movie-making-tools/"><u>In 2024, Quick Access to XP's Movie Making Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/missing-page-alert-what-to-do-when-you-hit-a-404-error/"><u>Missing Page Alert: What to Do When You Hit a 404 Error</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/optimiza-tu-pc-accelerando-windows-cuidadosamente-tras-la-duplicacion-7-pasos-clave-para-una-experiencia-sin-fronteras/"><u>Optimiza Tu PC: Accelerando Windows Cuidadosamente Tras La Duplicación - 7 Pasos Clave Para Una Experiencia Sin Fronteras!</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/restaurer-les-systemes-dhp-sur-windows-11-3-techniques-efficaces-pour-une-recuperation-rapide/"><u>Restaurer Les Systèmes D'HP Sur Windows 11: 3 Techniques Efficaces Pour Une Récupération Rapide</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/restore-your-windows-user-profiles-4-no-cost-fixes-for-windows-7810-system-issues/"><u>Restore Your Windows User Profiles: 4 No-Cost Fixes for Windows 7/8/10 System Issues</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-booting-from-kingston-ssd-after-cloning-your-hard-drive-4-essential-steps/"><u>Step-by-Step Guide to Booting From Kingston SSD After Cloning Your Hard Drive - 4 Essential Steps</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-for-setting-up-regular-backup-schedules-in-windows-versions/"><u>Step-by-Step Tutorial for Setting Up Regular Backup Schedules in Windows Versions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/swift-remedies-for-iphone-unfocused-shots/"><u>Swift Remedies for iPhone Unfocused Shots</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windowsrsync-2024/"><u>Windows向けにおすすめのRsync代替ソフトウェア 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728478507580-pc/"><u>システム更新の最後:企業運営下でPCを扱う方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>[New] 2024 Approved From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamline-your-musical-journey-with-youtubes-60-second-clips-for-2024/"><u>[New] Streamline Your Musical Journey with YouTube's 60-Second Clips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-real-time-vs-recorded-entertainment-twitch-vs-youtube-analysis/"><u>2024 Approved Real-Time vs Recorded Entertainment Twitch vs YouTube Analysis</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/come-risolvere-gli-errori-di-backup-del-sistema-in-windows-11-che-non-riescono-a-ripararsi/"><u>Come Risolvere Gli Errori Di Backup Del Sistema in Windows 11 Che Non Riescono a Ripararsi</u></a></li>
+<li><a href="https://article-files.techidaily.com/decoding-inshot-the-ultimate-video-editing-tool/"><u>Decoding InShot The Ultimate Video Editing Tool</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/free-file-recovery-techniques-in-windows-10-explored-the-leading-five-options-with-ifind-software/"><u>Free File Recovery Techniques in Windows 10 Explored: The Leading Five Options with IFind Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/identify-and-eliminate-o97mdplinka-trojan-infections-expert-tips-from-malwarefox/"><u>Identify & Eliminate O97M/DPLink.A Trojan Infections - Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-linux-editors-top-8-video-cutters-for-2024/"><u>Leading Linux Editors Top 8 Video Cutters for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/secure-your-browser-expert-strategies-to-prevent-viruses-through-chrome-notifications/"><u>Secure Your Browser: Expert Strategies to Prevent Viruses Through Chrome Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-programs-in-windows-os/"><u>Troubleshooting Unresponsive Programs in Windows OS</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728503314763-10/"><u>ウィンドウズ 10におけるデータ保存状況:完了したタスクと後片付け方法</u></a></li>
 </ul></div>
 
