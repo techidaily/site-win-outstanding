@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-10-28T01:02:08.202Z
-updated: 2024-10-31T19:53:25.477Z
+date: 2024-11-03T21:09:13.767Z
+updated: 2024-11-06T17:06:53.838Z
 tags:
   - product
   - antivirus
@@ -37,10 +37,17 @@ Firefox started blocking content to protect the privacy of users. Several websit
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Changing the Block List
@@ -52,33 +59,19 @@ Below the Trackers, there is an option **Change block list**, click on it.![Chan
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
 Now the content blocking on the Firefox is set. It will prevent the content as per the settings. Whenever Firefox blocks the content, you will see a **shield icon** before the URL of the website.![Content Blocking Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Icon.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Content Blocking for Trusted Websites?
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
@@ -97,6 +90,13 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -123,16 +123,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-engineering-eye-catching-film-openings/"><u>[Updated] In 2024, Engineering Eye-Catching Film Openings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>[Updated] Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktoks-toptwitter-tweets-amassing-views-for-2024/"><u>[Updated] TikTok's #TopTwitter Tweets Amassing Views for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/5-proven-strategies-for-restoring-your-lost-google-chrome-bookmark-savvy/"><u>5 Proven Strategies for Restoring Your Lost Google Chrome Bookmark Savvy</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/chkdsk-probleme-top-8-strategien-zur-uberwindung-von-fehlern-im-schreibgeschutzten-laufwerk/"><u>CHKDSK-Probleme: Top 8 Strategien Zur Überwindung Von Fehlern Im Schreibgeschützten Laufwerk</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/discover-the-best-places-to-stream-eng-subbed-taiwanese-series-without-spending-a-penny/"><u>Discover the Best Places to Stream Eng-Subbed Taiwanese Series Without Spending a Penny</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/go-bin/"><u>Go Binで見つからず、戻せるのはどうやってファイル？データ復元ガイドとトラブルシューティング</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y36-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y36 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/kostenlose-tools-fur-die-konvertierung-von-mov-zu-mp4-schnellstart-bei-mac-os-und-windows/"><u>Kostenlose Tools Für Die Konvertierung Von MOV Zu MP4 - Schnellstart Bei Mac OS Und Windows</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728476258372-windows-pc/"><u>Windows PC群への効率的なクローニング手法について学ぶ</u></a></li>
-<li><a href="https://blog-min.techidaily.com/youtubeitunes/"><u>YouTube動画をiTunesプレーヤー向けに変換するための簡単ガイド</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-watchlist-15-must-see-stop-motion-classics/"><u>[New] Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>[New] In 2024, Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ogic-journey-discovering-top-online-practitioners/"><u>[New] Yogic Journey Discovering Top Online Practitioners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-learn-the-art-of-engaging-video-startups-with-imovie-for-2024/"><u>[Updated] Learn the Art of Engaging Video Startups with iMovie for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-digital-depositories-customized-alert-sounds/"><u>[Updated] Top Digital Depositories Customized Alert Sounds</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/seamless-iphone-to-windows-1110-photo-and-video-transfer-methods-explained/"><u>Seamless iPhone to Windows (11/10) Photo and Video Transfer Methods Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/tecnicas-esenciales-para-reparacion-eficaz-de-archivos-del-sistema-y-proteccion-contra-la-perdida-de-datos-en-windows-7/"><u>Técnicas Esenciales Para Reparación Eficaz De Archivos Del Sistema Y Protección Contra La Pérdida De Datos en Windows 7</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-3-techniques-pour-securement-et-restauration-en-un-clin-doeil-de-votre-playstation-5-guide-2024/"><u>Top 3 Techniques Pour Securement Et Restauration en Un Clin D'Oeil De Votre PlayStation 5: Guide 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-tips-for-retrieving-lost-data-on-windows-11/"><u>Top Tips for Retrieving Lost Data on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-truenas/"><u>Windowsデータ保護: TrueNASで簡単に自動バックアップ設定をするレシピ</u></a></li>
 </ul></div>
 
