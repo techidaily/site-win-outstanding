@@ -1,7 +1,7 @@
 ---
 title: "Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology"
-date: 2024-10-31T20:57:08.244Z
-updated: 2024-11-06T18:15:59.214Z
+date: 2024-11-15T16:30:42.730Z
+updated: 2024-11-16T17:20:51.882Z
 tags:
   - product
   - antivirus
@@ -54,13 +54,6 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Goodbye TCP
 
 Before we get to further details, a few words about UDP (User Datagram Protocol), a new technology that Google has been working on. This TCP replacement is designed to make transmissions much smoother and faster by removing many of the unnecessary functions that TCP performs.
@@ -95,6 +88,13 @@ As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googl
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will HTTP/3 be used?
 
 Soon. The transition has already begun, and slowly but surely the entire web will transition to this new standard. It was only in November 2018 that a [proposal](https://mailarchive.ietf.org/arch/msg/quic/RLRs4nB1lwFCZ%5F7k0iuz0ZBa35s) for HTTP-over-QUIC be called HTTP/3 was accepted by the [IEFT](https://www.ietf.org/), the Internet Engineering Task Force.
@@ -102,6 +102,13 @@ Soon. The transition has already begun, and slowly but surely the entire web wil
 This independent organization was founded by the US government in 1986, and is made up from volunteers from leading technology companies. They have been overseeing the proceedings for Internet technologies since 1993.
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
@@ -115,13 +122,6 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
 Other browser and software makers will, undoubtedly, add support for this new standard in due time. Particularly those based on the Chromium source code, like the newer versions of [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). Other platforms like [Caddy](https://caddyserver.com/) web server and [Lite Speed](https://www.litespeedtech.com/) products have also integrated this new technology.
@@ -129,10 +129,16 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,10 +159,10 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -184,24 +190,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[New] 2024 Approved Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-pro-tiktok-intro-creation-maximizing-your-macs-capabilities/"><u>[New] Pro TikTok Intro Creation Maximizing Your Mac's Capabilities</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-zero-price-virtual-gatherings/"><u>[Updated] 2024 Approved The Ultimate Guide to Zero-Price Virtual Gatherings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-13-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 13 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728507073733-aomei/"><u>了解 AOMEI 备份 - 专业数据保存解决方案</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/automated-data-protection-using-dells-advanced-backup-software/"><u>Automated Data Protection Using Dell's Advanced Backup Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/dateien-verschwunden-losungen-fur-verlorene-herunterladen-daten-unter-windows-10/"><u>Dateien Verschwunden: Lösungen Für Verlorene Herunterladen Daten Unter Windows 10</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effective-steps-towards-secure-data-restoration-on-your-wd-elements-hard-drive/"><u>Effective Steps Towards Secure Data Restoration on Your WD Elements Hard Drive</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/fatto-trovare-il-motivo-della-scomparsa-e-ritorno-delle-canzoni-di-itunes-nella-libreria/"><u>Fatto! Trovare Il Motivo Della Scomparsa E Ritorno Delle Canzoni Di iTunes Nella Libreria</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuita-conversor-de-archivo-wma-y-flv-online-herramienta-gratuita-para-conversion-rapida-por-movavi/"><u>Gratuita Conversor De Archivo WMA Y FLV Online: Herramienta Gratuita Para Conversión Rápida Por Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-civi-3-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Civi 3 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-s23-fe-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy S23 FE Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-audio-advantage-elevating-sound-quality-in-youtube-productions/"><u>The Audio Advantage Elevating Sound Quality in YouTube Productions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transferieren-sie-ihre-ipad-filme-einfach-zwischen-geraten-mit-diesen-drei-effizienten-techniken/"><u>Transferieren Sie Ihre iPad-Filme Einfach Zwischen Geräten Mit Diesen Drei Effizienten Techniken</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/transfert-de-disque-dur-portable-vers-un-disque-externe-guide-complet-et-astuces-pour-windowsmac/"><u>Transfert De Disque Dur Portable Vers Un Disque Externe : Guide Complet Et Astuces Pour Windows/Mac</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/ultimate-5-social-media-films/"><u>Ultimate 5 Social Media Films</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/ultimate-guide-mastering-accurate-vcenter-dns-settings/"><u>Ultimate Guide: Mastering Accurate vCenter DNS Settings</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/understanding-dropboxs-selective-sync-feature-a-complete-guide-with-step-by-step-tutorial/"><u>Understanding Dropbox's Selective Sync Feature: A Complete Guide with Step-by-Step Tutorial</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-free-anime-gifs-in-discord-nitro-inclusive-for-2024/"><u>Unlocking Free Anime GIFs in Discord Nitro Inclusive for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>[Updated] In 2024, Transform Your Canon Shots Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thematic-wow-factor-designing-engaging-youtube-templates/"><u>2024 Approved Thematic Wow Factor Designing Engaging YouTube Templates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-legacy-grade-nulaxy-km18-bluetooth-car-audio-adapter-is-it-worth-your-trust/"><u>Analyzing the Legacy-Grade Nulaxy KM18 Bluetooth Car Audio Adapter – Is It Worth Your Trust?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/cross-hardware-wiederherstellungsfunktion-fur-datenwiedergabe-in-windows-server-systemen/"><u>Cross-Hardware Wiederherstellungsfunktion Für Datenwiedergabe in Windows Server Systemen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-black-screens-in-active-computers/"><u>Expert Advice on Diagnosing and Fixing Black Screens in Active Computers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-photoshop-cs8-license-now-essential-troubleshooting-and-maintenance/"><u>Get Your PhotoShop CS8 License Now: Essential Troubleshooting and Maintenance</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-confirm-the-trustworthiness-and-safety-of-android-apps-before-downloading/"><u>How to Confirm the Trustworthiness and Safety of Android Apps Before Downloading.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-complete-guide-webinar-software-10-best-webinar-software/"><u>In 2024, Complete Guide Webinar Software 10 Best Webinar Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-the-art-of-picture-perfection-on-snapchat-apps-for-2024/"><u>Master the Art of Picture Perfection on Snapchat Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reviving-the-experience-how-apples-intervention-could-benefit-disheartened-sonos-owners-insights/"><u>Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-free-software-solutions-for-safeguarding-your-windows-7-and-ubuntu-multi-boot-configuration/"><u>Top Free Software Solutions for Safeguarding Your Windows 7 & Ubuntu Multi-Boot Configuration</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/transfer-files-seamlessly-airdrop-from-iphone-to-pc/"><u>Transfer Files Seamlessly: AirDrop From iPhone to PC</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/kyfya-amna-akhtyar-albramg-lnskh-asol-windows-11-6-maaayyr-koya-hsham-2023/"><u>كيفية آمنة اختيار البرامج لنسخ أصول Windows 11: 6 معايير قوية هشام - 2023</u></a></li>
 </ul></div>
 

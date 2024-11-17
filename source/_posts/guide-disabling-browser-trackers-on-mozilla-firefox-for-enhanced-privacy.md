@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-11-03T21:09:13.767Z
-updated: 2024-11-06T17:06:53.838Z
+date: 2024-11-13T17:12:46.010Z
+updated: 2024-11-16T19:10:04.952Z
 tags:
   - product
   - antivirus
@@ -36,34 +36,27 @@ Firefox started blocking content to protect the privacy of users. Several websit
 
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Changing the Block List
 
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Send Do Not Track Request
 
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
@@ -76,6 +69,13 @@ If you trust a website and doesn’t want to block the content, then you can dis
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -92,10 +92,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -123,17 +123,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-essential-watchlist-15-must-see-stop-motion-classics/"><u>[New] Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>[New] In 2024, Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ogic-journey-discovering-top-online-practitioners/"><u>[New] Yogic Journey Discovering Top Online Practitioners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-learn-the-art-of-engaging-video-startups-with-imovie-for-2024/"><u>[Updated] Learn the Art of Engaging Video Startups with iMovie for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-digital-depositories-customized-alert-sounds/"><u>[Updated] Top Digital Depositories Customized Alert Sounds</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/seamless-iphone-to-windows-1110-photo-and-video-transfer-methods-explained/"><u>Seamless iPhone to Windows (11/10) Photo and Video Transfer Methods Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tecnicas-esenciales-para-reparacion-eficaz-de-archivos-del-sistema-y-proteccion-contra-la-perdida-de-datos-en-windows-7/"><u>Técnicas Esenciales Para Reparación Eficaz De Archivos Del Sistema Y Protección Contra La Pérdida De Datos en Windows 7</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-3-techniques-pour-securement-et-restauration-en-un-clin-doeil-de-votre-playstation-5-guide-2024/"><u>Top 3 Techniques Pour Securement Et Restauration en Un Clin D'Oeil De Votre PlayStation 5: Guide 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-tips-for-retrieving-lost-data-on-windows-11/"><u>Top Tips for Retrieving Lost Data on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-truenas/"><u>Windowsデータ保護: TrueNASで簡単に自動バックアップ設定をするレシピ</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[New] How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>[Updated] Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrating-twitter-videos-into-facebook-social-graph/"><u>[Updated] In 2024, Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone SE (2020)</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/behebung-von-probleme-mit-der-doppelklickfunktion-in-windows-explorer-zum-offnen-von-dateien/"><u>Behebung Von Probleme Mit Der Doppelklickfunktion in Windows Explorer Zum Öffnen Von Dateien</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-exclusive-snag-the-hp-victus-15-gaming-laptop-for-just-450-expert-tips/"><u>Best Buy Anti-Prime Day Exclusive: Snag the HP Victus 15 Gaming Laptop for Just $450 | Expert Tips</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/comment-gerer-lencodage-accidentel-de-vos-fichiers-sans-risque-pour-la-securite/"><u>Comment Gérer L'Encodage Accidentel De Vos Fichiers Sans Risque Pour La Sécurité?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/discover-the-best-trio-of-windows-10-data-protection-utilities/"><u>Discover the Best Trio of Windows 10 Data Protection Utilities</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-site-with-cookiebots-ai-powered-behavioral-tracking-and-tailoring-techniques/"><u>Enhance Your Site with Cookiebot's AI-Powered Behavioral Tracking & Tailoring Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-blunder-how-to-prevent-your-hearthstone-game-from-crashing/"><u>Fixing the Blunder: How to Prevent Your Hearthstone Game From Crashing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guida-passo-passo-per-generazione-e-ripristino-dellimmagine-del-sistema-operativo-windows-t-sulla-nuova-memoria-fisica/"><u>Guida Passo-Passo per Generazione E Ripristino Dell'immagine Del Sistema Operativo Windows T Sulla Nuova Memoria Fisica</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-strategies-for-retrieving-missing-data-in-windows-operating-systems-111087/"><u>Step-by-Step Strategies for Retrieving Missing Data in Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/strategie-per-scappare-il-formato-m4v-cosa-significa-m4v-ed-esecuzione-dellapertura/"><u>Strategie per Scappare Il Formato M4V: Cosa Significa M4V Ed Esecuzione Dell'Apertura</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleashing-the-power-of-free-copyright-free-image-repositories-for-2024/"><u>Unleashing the Power of Free, Copyright-Free Image Repositories for 2024</u></a></li>
 </ul></div>
 
