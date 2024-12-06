@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Browser: Expert Strategies to Prevent Viruses Through Chrome Notifications"
-date: 2024-11-21T03:08:43.671Z
-updated: 2024-11-25T22:09:10.776Z
+date: 2024-11-30T18:26:01.135Z
+updated: 2024-12-06T04:06:48.270Z
 tags:
   - product
   - antivirus
@@ -58,23 +58,19 @@ Unless your browser got hacked, these notifications would only appear if you hav
 
 ![Push Notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/Push-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Suppose you are receiving irrelevant notifications from the websites that you do not remember allowing. In that case, it is because you might have visited an infected website and unintentionally allowed it to send the push notifications.
 
 Many websites trick users into making them click on the allow button, and it traps most users without them knowing the intention. For example, this website asks the user to click on “Allow” to watch the video.
 
 ![allow to watch video](https://www.malwarefox.com/wp-content/uploads/2020/08/allow.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It is possible that your browser may be hijacked, and it might allow irrelevant websites to send the notifications without your permission.
 
 [Chrome Using too much CPU? Here's How to Fix High Memory Usage](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are they Useful?
 
@@ -83,10 +79,6 @@ Push Notifications are highly useful when you want to take a quick glimpse of yo
 Likewise, if you have allowed your favorite blog site to show you a notification, you would be notified every time a new article is posted.
 
 So, these notifications don’t need to be always annoying.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can Chrome Notifications be used for Virus attacks?
 
@@ -100,6 +92,10 @@ Notifications bear no threat by themselves. So, cyberattackers would force you t
 
 When you click any of the notifications from the malicious site, you can trigger the silent installation of harmful malware programs such as [banking trojans](https://tools.techidaily.com/malwarefox/products/) or [browser viruses](https://tools.techidaily.com/malwarefox/products/). You can also be redirected to the malware-carrying sites.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Notification Virus from Chrome?
 
 ### **Block Notifications from Chrome Settings**
@@ -111,8 +107,17 @@ If you have mistakenly allowed any website to show you notifications, you can bl
 ![Open Settings in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Open-Settings-in-Chrome.jpg)
 3. Under “Privacy and security,” choose **Site Settings.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose site settings](https://www.malwarefox.com/wp-content/uploads/2020/08/Choose-site-settings.jpg)
 4. Now under “Permissions,” click on the **Notifications.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/notifs.jpg)
 5. You will find two sections **Block** – the sites that are restricted to show notifications and **Allow**\-the sites allowed to show notifications.
 
@@ -120,7 +125,7 @@ If you have mistakenly allowed any website to show you notifications, you can bl
 7. If you don’t want to receive notifications from any websites, you can permanently disable it by switching off the button next to “**Sites can ask to send notifications.**“![permanently block notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/permanently-block-notifs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Get Rid of the Browser Virus from the Chrome**
@@ -139,11 +144,11 @@ Here are the steps to manage the web extensions on the Chrome Browser:
 2. Bring mouse cursor over **More tools** and from the extended menu choose **Extensions**.![Extensions settings](https://www.malwarefox.com/wp-content/uploads/2020/07/Extensions-settings.png)
 3. All the extensions would be on your screen
 
-4. Look for the ones you want to disable or remove.![manage chrome extensions](https://www.malwarefox.com/wp-content/uploads/2020/07/manage-chrome-extensions.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Look for the ones you want to disable or remove.![manage chrome extensions](https://www.malwarefox.com/wp-content/uploads/2020/07/manage-chrome-extensions.jpg)
 
 #### **Reset Web Browser Settings**
 
@@ -156,11 +161,7 @@ If your browser is misbehaving because browser virus, then reset its settings to
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Relaunch your browser.
@@ -174,10 +175,6 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to avoid getting such Notifications?
 
 If you don’t want to bother yourself with such notification bombardments, you must follow healthy browsing practices.
@@ -188,6 +185,10 @@ If you don’t want to bother yourself with such notification bombardments, you 
 4. While installing software, uncheck the installation of the bonus program.
 5. Avoid getting freeware programs from [unsecured and untrustworthy sources](https://tools.techidaily.com/malwarefox/products/).
 6. Always keep installed a robust antimalware solution on your device so that any threat can be detected beforehand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -214,18 +215,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-harvest-hacks-ginger-valley-edition/"><u>[New] 2024 Approved Harvest Hacks Ginger Valley Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-high-def-odyssey-of-youtubes-twitter-vids/"><u>[New] 2024 Approved The High-Def Odyssey of YouTube's Twitter Vids</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-smartphone-security-showdown-iphone-x-vs-galaxy-recognition-prowess/"><u>[New] In 2024, Smartphone Security Showdown IPhone X Vs. Galaxy Recognition Prowess</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-strategizing-for-successful-youtube-ad-sponsorships-with-famebit/"><u>[Updated] 2024 Approved Strategizing for Successful YouTube Ad Sponsorships with FameBit</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>2024 Approved Mac Enhancement Synchronized Screen + Audio Tracking</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pros-picks-the-best-11-soundstreamers-reviewed/"><u>2024 Approved Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-brainiacs-which-is-superior-chatgpt-or-gemini-in-software-crafting/"><u>Battle of the Brainiacs: Which Is Superior, ChatGPT or Gemini in Software Crafting?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/comprehensive-insight-on-diskgenius-advantages-disadvantages-and-overall-assessment/"><u>Comprehensive Insight on DiskGenius: Advantages, Disadvantages & Overall Assessment</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/rapid-solutions-for-fixing-a-non-responsive-copy-of-the-backup-system-in-windows-10/"><u>Rapid Solutions for Fixing a Non-Responsive Copy of the Backup System in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/side-tech-businesses-and-vintage-console-trends/"><u>Side Tech Businesses & Vintage Console Trends</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-5-easy-steps-for-altering-game-voices-in-pubg/"><u>The 5 Easy Steps for Altering Game Voices in PUBG</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-11-datensicherung-verlauf-update-aktualisierung-abgeschlossen/"><u>Windows 11 Datensicherung Verlauf Update - Aktualisierung Abgeschlossen?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/aligaba-almthyra-kyf-thoyl-storagesphere-v2008-r2-maa-adoat-nskh-ksyra/"><u>الإجابة المثيرة: كيف تحويل StorageSphere v2008 (R2) مع أدوات نسخ قصيرة</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>[New] 2024 Approved Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-unknown-to-social-superstar-master-these-15-insta-growth-strategies-for-fast-results/"><u>[New] In 2024, From Unknown to Social Superstar Master These 15 Insta Growth Strategies for Fast Results</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leaders-shaping-the-marvel-online-experience/"><u>[New] Leaders Shaping the Marvel Online Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-guide-to-radiowave-plays/"><u>[New] Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-pc-with-components-that-sing-together/"><u>Building a PC with Components That Sing Together</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/fix-your-machine-the-right-way-replacing-broken-components-with-guidance-from-yl-software-experts/"><u>Fix Your Machine the Right Way: Replacing Broken Components with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-g24-power-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola G24 Power?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-learn-nutritious-cuisine-skills-with-chatgpt/"><u>Is It Possible to Learn Nutritious Cuisine Skills with ChatGPT?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/master-your-pcs-energy-consumption-with-yl-software-a-comprehensive-tutorial-on-tweaking-control-panel-settings/"><u>Master Your PC's Energy Consumption with YL Software: A Comprehensive Tutorial on Tweaking Control Panel Settings</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/maximizing-your-operational-excellence-tips-from-yl-computings-top-tier-software/"><u>Maximizing Your Operational Excellence: Tips From YL Computing's Top-Tier Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/modify-installed-applications-on-windows-using-the-control-panel-guide-by-yl-computing/"><u>Modify Installed Applications on Windows Using the Control Panel - Guide by YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/resolving-graphics-card-issues-post-pc-reboot-expert-advice-from-yl-computing/"><u>Resolving Graphics Card Issues Post-PC Reboot - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/steer-clear-of-pitfalls-expert-tips-on-smart-crypto-trading-strategies-yl-computing/"><u>Steer Clear of Pitfalls: Expert Tips on Smart Crypto Trading Strategies - YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-methods-for-taking-screenshots-on-your-hp-notebook/"><u>Top 5 Methods for Taking Screenshots on Your HP Notebook</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/upgrade-your-virtual-choir-experience-with-the-latest-batch-of-29-songs-for-party-tyme/"><u>Upgrade Your Virtual Choir Experience with the Latest Batch of 29 Songs for Party Tyme!</u></a></li>
 </ul></div>
 
