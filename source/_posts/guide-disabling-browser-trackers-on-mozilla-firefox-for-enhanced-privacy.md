@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-12-01T07:50:56.687Z
-updated: 2024-12-05T22:16:51.976Z
+date: 2024-12-09T03:30:06.733Z
+updated: 2024-12-12T07:45:20.220Z
 tags:
   - product
   - antivirus
@@ -41,11 +41,7 @@ Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t se
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Send Do Not Track Request
@@ -53,28 +49,32 @@ Below the Trackers, there is an option **Change block list**, click on it.![Chan
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
 Now the content blocking on the Firefox is set. It will prevent the content as per the settings. Whenever Firefox blocks the content, you will see a **shield icon** before the URL of the website.![Content Blocking Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Icon.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable Content Blocking for Trusted Websites?
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -115,19 +115,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>[New] Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphones-hdr-a-photography-essential/"><u>[New] Mastering iPhone's HDR A Photography Essential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-lenovos-tablet-monarch-a-godzilla-level-performance-unveiled/"><u>Comprehensive Evaluation of Lenovo's Tablet Monarch: A Godzilla-Level Performance Unveiled</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/do-you-need-the-internet-to-run-windows-defender-comprehensive-guide-by-yl-software/"><u>Do You Need the Internet to Run Windows Defender? - Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/identifying-and-resolving-the-cause-of-sporadic-system-lockups-expert-guide-by-yl-software/"><u>Identifying & Resolving the Cause of Sporadic System Lockups: Expert Guide by YL Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/identifying-and-troubleshooting-system-stability-problems-expert-advice-from-yl-computing/"><u>Identifying and Troubleshooting System Stability Problems - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-your-youtube-content-stand-out-with-engaging-subtitle-designs-for-2024/"><u>Making Your YouTube Content Stand Out with Engaging Subtitle Designs for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pc-diagnostics-unveiled-a-step-by-step-tutorial-to-detect-hardware-failures-yl-software-solutions/"><u>PC Diagnostics Unveiled: A Step-by-Step Tutorial to Detect Hardware Failures – YL Software Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/professionals-picks-smoothest-drone-gimbals/"><u>Professional's Picks Smoothest Drone Gimbals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-tutorial-for-spreading-playlists/"><u>The Ultimate Tutorial for Spreading Playlists</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubleshooting-tips-correcting-issues-with-an-improperly-functioning-scanner-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Tips: Correcting Issues with an Improperly Functioning Scanner - Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle-for-2024/"><u>Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/yl-techs-ultimate-tutorial-on-creating-a-secure-bitcoin-exchange-account-today/"><u>YL Tech's Ultimate Tutorial on Creating a Secure Bitcoin Exchange Account Today!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dvanced-techniques-using-jump-cuts-effectively/"><u>[New] Advanced Techniques Using Jump Cuts Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-15-revolutionary-metaverse-ventures-explored/"><u>[Updated] 15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-no-cost-webcams-for-seamless-chats/"><u>[Updated] 2024 Approved Essential No-Cost Webcams for Seamless Chats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/decoding-the-cryptocurrency-exchange-strategic-insights-from-yl-software/"><u>Decoding the Cryptocurrency Exchange: Strategic Insights From YL Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mastery-of-system-settings-how-to-easily-navigate-and-open-your-windows-control-panel-wisdom-from-yl-software/"><u>Mastery of System Settings: How To Easily Navigate and Open Your Windows Control Panel - Wisdom From YL Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop-for-2024/"><u>Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/solving-your-computers-hardware-woes-a-step-by-step-guide-expert-tips-from-yl-computing-and-software/"><u>Solving Your Computer's Hardware Woes: A Step-by-Step Guide - Expert Tips From YL Computing & Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-magic-recovery-client-reports-a-miraculous-turnaround-for-lost-memories/"><u>The Magic Recovery: Client Reports a Miraculous Turnaround for Lost Memories</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshooting-steps-when-your-scanner-goes-unseen-in-windows-expert-advice-by-yl-computing/"><u>Troubleshooting Steps When Your Scanner Goes Unseen in Windows - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-mouse-configuration-made-easy-expert-advice-and-customization-techniques-by-yl-computing/"><u>Windows Mouse Configuration Made Easy: Expert Advice & Customization Techniques by YL Computing</u></a></li>
 </ul></div>
 
