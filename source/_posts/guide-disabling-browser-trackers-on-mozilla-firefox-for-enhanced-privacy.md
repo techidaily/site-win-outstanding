@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-12-09T03:30:06.733Z
-updated: 2024-12-12T07:45:20.220Z
+date: 2024-12-12T16:57:58.677Z
+updated: 2024-12-18T16:34:15.143Z
 tags:
   - product
   - antivirus
@@ -20,6 +20,10 @@ The websites on the internet track your activity and create your profile so that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does Content Blocking Works on Firefox?
 
 Firefox started blocking content to protect the privacy of users. Several websites collect user’s personal information like their interest, activity, likes, and dislikes, etc. This information is later used to serve targeted ads on your browser. They also sell it to other advertisement companies. Mozilla joined their hands with [Disconnect](https://disconnect.me/trackerprotection), a privacy concern company to start blocking such content. Disconnect classifies the trackers that collect information with the intent to use it later or share it with third-party clients. Such trackers are flagged and blocked. However, the trackers that collect information only to improve the user experience are allowed. Meaning when a tracker collects information and store it in a database, such trackers are blocked. Firefox has categorized the content blocking in three modes that let you choose according to your need.
@@ -36,25 +40,25 @@ Firefox started blocking content to protect the privacy of users. Several websit
 
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Changing the Block List
 
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Send Do Not Track Request
 
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
@@ -64,17 +68,9 @@ Now the content blocking on the Firefox is set. It will prevent the content as p
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -89,6 +85,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -115,16 +115,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/dvanced-techniques-using-jump-cuts-effectively/"><u>[New] Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-15-revolutionary-metaverse-ventures-explored/"><u>[Updated] 15 Revolutionary Metaverse Ventures Explored</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-no-cost-webcams-for-seamless-chats/"><u>[Updated] 2024 Approved Essential No-Cost Webcams for Seamless Chats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/de-gouden-18-bestaan-de-zeven-sterkste-betaalde-foto-sites-in-nederland/"><u>De Gouden 18: Bestaan De Zeven Sterkste Betaalde Foto Sites in Nederland</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/decoding-the-cryptocurrency-exchange-strategic-insights-from-yl-software/"><u>Decoding the Cryptocurrency Exchange: Strategic Insights From YL Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mastery-of-system-settings-how-to-easily-navigate-and-open-your-windows-control-panel-wisdom-from-yl-software/"><u>Mastery of System Settings: How To Easily Navigate and Open Your Windows Control Panel - Wisdom From YL Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop-for-2024/"><u>Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/solving-your-computers-hardware-woes-a-step-by-step-guide-expert-tips-from-yl-computing-and-software/"><u>Solving Your Computer's Hardware Woes: A Step-by-Step Guide - Expert Tips From YL Computing & Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-magic-recovery-client-reports-a-miraculous-turnaround-for-lost-memories/"><u>The Magic Recovery: Client Reports a Miraculous Turnaround for Lost Memories</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubleshooting-steps-when-your-scanner-goes-unseen-in-windows-expert-advice-by-yl-computing/"><u>Troubleshooting Steps When Your Scanner Goes Unseen in Windows - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-mouse-configuration-made-easy-expert-advice-and-customization-techniques-by-yl-computing/"><u>Windows Mouse Configuration Made Easy: Expert Advice & Customization Techniques by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-edu-top-ten-inspiring-educational-content-yt-for-2024/"><u>[New] Edu-Top Ten Inspiring Educational Content YT for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] 2024 Approved Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr/"><u>2024 Approved Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leveraging-instagram-metrics-selecting-optimal-analytics-software/"><u>2024 Approved Leveraging Instagram Metrics Selecting Optimal Analytics Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-methods-for-opening-zip-archives-on-pc-with-yl-computing-tips/"><u>Easy Methods for Opening Zip Archives on PC with YL Computing Tips</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-can-i-monitor-the-health-and-status-of-my-windows-network-adapter-drivers-with-yl-software-tools/"><u>How Can I Monitor the Health and Status of My Windows Network Adapter Drivers with YL Software Tools?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-starting-issues-with-fall-guys-comprehensive-solutions/"><u>How to Fix Starting Issues with Fall Guys – Comprehensive Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-g42-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia G42 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/premium-x-men-logan-hd-backgrounds-from-yl-softwares-yl-computing-series/"><u>Premium X-Men Logan HD Backgrounds From YL Software's YL Computing Series</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/select-the-right-gpu-a-step-by-step-compatibility-checklist-from-yl-software/"><u>Select the Right GPU: A Step-by-Step Compatibility Checklist From YL Software</u></a></li>
 </ul></div>
 
