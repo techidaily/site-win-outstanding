@@ -1,7 +1,7 @@
 ---
 title: "Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology"
-date: 2024-12-04T00:15:32.969Z
-updated: 2024-12-05T22:56:58.631Z
+date: 2024-12-21T16:27:44.593Z
+updated: 2024-12-27T01:05:44.864Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,13 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Goodbye TCP
 
@@ -76,6 +76,10 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -87,6 +91,10 @@ All these numbers sound fast, but in computing and networking terms, these are l
 In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
@@ -106,10 +114,6 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
@@ -123,7 +127,7 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -132,17 +136,13 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -176,24 +176,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-framefusion-media-suite-for-2024/"><u>[New] FrameFusion Media Suite for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-new-wave-of-fbx-free-gaming-analysis-tools/"><u>[New] The New Wave of FBX-Free Gaming Analysis Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-gamer-friendly-video-capture-apps/"><u>[Updated] Gamer-Friendly Video Capture Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capturing-the-unseen-9-must-have-camgear-for-aspiring-vloggers/"><u>[Updated] In 2024, Capturing the Unseen 9 Must-Have CamGear for Aspiring Vloggers</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/enhance-your-computers-speed-addressing-internal-hardware-causes-of-lag-with-expert-advice-from-yl-solutions/"><u>Enhance Your Computer's Speed: Addressing Internal Hardware Causes of Lag with Expert Advice From YL Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhanced-anydvd-update-now-successfully-decrypts-all-css-encryption-on-your-dvds/"><u>Enhanced AnyDVD Update Now Successfully Decrypts All CSS Encryption On Your DVDs</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/epic-ninja-visuals-for-your-pc-professional-photo-backgrounds-in-ultra-definition-curated-exclusively-at-yl-software/"><u>Epic Ninja Visuals for Your PC: Professional Photo Backgrounds in Ultra Definition - Curated Exclusively at YL Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fast-track-fps-the-ultimate-speedy-extension-guide/"><u>Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/fixing-device-conflict-issues-in-windows-with-tips-from-yl-software-experts/"><u>Fixing Device Conflict Issues in Windows with Tips From YL Software Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-c55withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco C55with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S17 Pro Phone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/identifying-and-resolving-the-cause-of-sporadic-system-lockups-expert-guide-by-yl-software/"><u>Identifying & Resolving the Cause of Sporadic System Lockups: Expert Guide by YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-your-tab-key-not-working-on-windows-heres-how-to-fix-it/"><u>Is Your Tab Key Not Working on Windows? Here’s How to Fix It</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/must-buy-iphone-accents-for-optimal-usage-and-style-the-definitive-guide/"><u>Must-Buy iPhone Accents for Optimal Usage and Style - The Definitive Guide</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pc-diagnostics-unveiled-a-step-by-step-tutorial-to-detect-hardware-failures-yl-software-solutions/"><u>PC Diagnostics Unveiled: A Step-by-Step Tutorial to Detect Hardware Failures – YL Software Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/recognizing-interface-clashes-navigating-compatibility-issues-between-sound-cards-and-peripherals-insights-from-yl-tech-experts/"><u>Recognizing Interface Clashes: Navigating Compatibility Issues Between Sound Cards & Peripherals - Insights From YL Tech Experts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubleshooting-tips-correcting-issues-with-an-improperly-functioning-scanner-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Tips: Correcting Issues with an Improperly Functioning Scanner - Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/yl-softwares-guide-steps-to-successful-cryptocurrency-mining-with-ease/"><u>YL Software's Guide: Steps to Successful Cryptocurrency Mining with Ease</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/yl-techs-ultimate-tutorial-on-creating-a-secure-bitcoin-exchange-account-today/"><u>YL Tech's Ultimate Tutorial on Creating a Secure Bitcoin Exchange Account Today!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-highlight-strategy-guide-10-must-try-tips-for-your-business/"><u>[Updated] 2024 Approved Highlight Strategy Guide 10 Must-Try Tips for Your Business</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[Updated] In 2024, Accelerated Conversion of YT Content for MAC Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-unique-features-in-windows-11-god-mode/"><u>Explore: Unique Features in Windows 11 God Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-vimeo-videos/"><u>In 2024, How to Make Vimeo Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/intellect-in-your-hand-the-moto-z2-breakdown/"><u>Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/speeding-up-your-pc-expert-tips-for-tweaking-windows-10-configurations-insights-from-yl-computing/"><u>Speeding Up Your PC: Expert Tips for Tweaking Windows 10 Configurations - Insights From YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/start-your-music-journey-with-a-7-day-free-trial-of-party-tyme-karaoke-in-dex3-experience-the-ultimate-dj-subscription/"><u>Start Your Music Journey with a 7-Day Free Trial of Party Tyme Karaoke in DEX3 - Experience the Ultimate DJ Subscription</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-adjusting-audio-configurations-via-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Audio Configurations via Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-instructions-for-enabling-windows-update-in-control-panel-by-yl-software-experts/"><u>Step-by-Step Instructions for Enabling Windows Update in Control Panel by YL Software Experts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-setting-up-system-updates-through-control-panel-with-yl-software-expertise/"><u>Step-by-Step Tutorial: Setting Up System Updates Through Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-blaze-2-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshooting-your-unresponsive-cddvd-drive-expert-tips-from-yl-computing/"><u>Troubleshooting Your Unresponsive CD/DVD Drive: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/understanding-the-risks-can-you-safely-turn-off-windows-defender-insights-from-yl-computing/"><u>Understanding the Risks: Can You Safely Turn Off Windows Defender? Insights From YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unveiling-the-impact-an-in-depth-analysis-of-opium-war-outcomes-explored-by-yl-tech/"><u>Unveiling the Impact: An In-Depth Analysis of Opium War Outcomes - Explored by YL Tech</u></a></li>
 </ul></div>
 
