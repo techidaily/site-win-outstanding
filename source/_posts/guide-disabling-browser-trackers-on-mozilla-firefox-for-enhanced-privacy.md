@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2024-12-30T17:06:32.419Z
-updated: 2025-01-05T17:37:05.763Z
+date: 2025-01-06T02:30:35.023Z
+updated: 2025-01-12T05:12:12.086Z
 tags:
   - product
   - antivirus
@@ -21,7 +21,7 @@ The websites on the internet track your activity and create your profile so that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Content Blocking Works on Firefox?
@@ -41,11 +41,7 @@ Firefox started blocking content to protect the privacy of users. Several websit
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changing the Block List
@@ -53,12 +49,16 @@ Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t se
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Send Do Not Track Request
 
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Know Firefox is Blocking Content
 
@@ -67,6 +67,10 @@ Now the content blocking on the Firefox is set. It will prevent the content as p
 ## How to Disable Content Blocking for Trusted Websites?
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
@@ -85,10 +89,6 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -115,24 +115,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-drone-racing-mastery-basic-knowledge-and-quintessential-fpv-models-for-2024/"><u>[New] Drone Racing Mastery Basic Knowledge & Quintessential FPV Models for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-can-i-post-a-video-between-twitter-and-tumblr-in-2024/"><u>[New] How Can I Post a Video Between Twitter and Tumblr, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>[Updated] 2024 Approved Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-agile-quick-windows-picture-sorter-for-2024/"><u>[Updated] Agile Quick Windows Picture Sorter for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essentials-of-drafting-engaging-vlogger-speeches/"><u>[Updated] Essentials of Drafting Engaging Vlogger Speeches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-face-pixeling-tools-for-privacy/"><u>[Updated] Exploring the Best Face-Pixeling Tools for Privacy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[Updated] In 2024, Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/accelerate-your-systems-efficiency-with-yl-computing-and-yl-software-strategies/"><u>Accelerate Your System's Efficiency with YL Computing & YL Software Strategies</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/adjust-your-computers-energy-consumption-control-panel-tweaks-by-yl-computing/"><u>Adjust Your Computer's Energy Consumption: Control Panel Tweaks by YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-can-i-retrieve-lost-documents-with-data-retrieval-tools-expert-advice-from-yl-computings-latest-software-solutions/"><u>How Can I Retrieve Lost Documents with Data Retrieval Tools? - Expert Advice From YL Computing's Latest Software Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-improve-your-scanners-image-quality-expert-tips-from-yl-computing/"><u>How to Improve Your Scanner's Image Quality: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellence-in-screensnapting-fast-reliable-recorder/"><u>In 2024, Excellence in Screensnapting Fast, Reliable Recorder</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/protect-your-network-adapter-from-failure-proven-tips-and-strategies-expert-guidance-by-yl-tech/"><u>Protect Your Network Adapter From Failure: Proven Tips & Strategies - Expert Guidance by YL Tech</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/recognizing-signs-of-hardware-malfunction-a-guide-for-your-pc-insights-from-yl-computing/"><u>Recognizing Signs of Hardware Malfunction: A Guide for Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://win-docs.techidaily.com/small-business-success-stories-leveraging-newsletter-optimization-techniques-and-analytics-by-massmail-to-enhance-subscriber-engagement/"><u>Small Business Success Stories: Leveraging Newsletter Optimization Techniques and Analytics by MassMail to Enhance Subscriber Engagement</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/stunning-adriana-lima-hd-image-gallery-and-wallsavers-professional-photo-backgrounds-with-yl-software-solutions/"><u>Stunning Adriana Lima HD Image Gallery and Wallsavers - Professional Photo Backgrounds with YL Software Solutions</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubled-by-your-hard-drive-find-relief-through-yl-computings-guide-to-troubleshooting-techniques/"><u>Troubled by Your Hard Drive? Find Relief Through YL Computing’s Guide to Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/unveiling-mao-zedong-the-central-figure-in-the-chinese-revolution-of-1nineteen-forty-nine-through-yl-tech-perspectives/"><u>Unveiling Mao Zedong: The Central Figure in the Chinese Revolution of 1Nineteen Forty-Nine Through YL Tech Perspectives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>[Updated] In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-leveraging-azures-voice-recognition-for-advanced-solutions-for-2024/"><u>[Updated] Leveraging Azure's Voice Recognition for Advanced Solutions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mac-innovators-handbook-crafting-cool-youtube-videos/"><u>[Updated] Mac Innovators' Handbook Crafting Cool Youtube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-guide-to-sims-4-gameplay-recording/"><u>[Updated] Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/57ch5zau5pio55m95zyw5qc85byp5yyw6kiy5oa25y2h77ya5lin55so5pou5bplusd77ym5a6m5ywo5yplusv5lul6ieq5bex6kej5rg677yb/"><u>簡單明白地格式化記憶卡：不用擔心，完全可以自己解決！</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/como-configurar-el-acceso-bios-de-lenovo-con-una-unidad-usb-en-sistemas-windows-10/"><u>Cómo Configurar El Acceso Bios De Lenovo Con Una Unidad USB en Sistemas Windows 10</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-convert-a-uefi-enabled-machine-into-bios-mode-by-reapplying-previous-boot-configuration/"><u>How to Convert a UEFI-Enabled Machine Into BIOS Mode by Reapplying Previous Boot Configuration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>In 2024, 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mp3-recording-guide-exclusive-to-free-skype-calls/"><u>In 2024, MP3 Recording Guide Exclusive to Free Skype Calls</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-yourself-with-these-ten-high-growth-youtube-sources/"><u>Inspire Yourself with These Ten High-Growth YouTube Sources</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/page-unavailable-encountered-error-404-during-your-online-quest/"><u>Page Unavailable – Encountered Error 404 During Your Online Quest</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pemulihan-data-prosedur-komprehensive-untuk-mengawali-file-dari-penggantian-disk-seagate/"><u>Pemulihan Data: Prosedur Komprehensive Untuk Mengawali File Dari Penggantian Disk Seagate</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-t2x-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo T2x 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-steps-to-transfer-your-virtual-hard-disks-onto-a-real-disk-without-compromising-information/"><u>Simple Steps to Transfer Your Virtual Hard Disks Onto a Real Disk Without Compromising Information</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/wie-deaktivieren-sie-die-datensicherungsfunktion-auf-ihrem-windows-server-2012-system/"><u>Wie Deaktivieren Sie Die Datensicherungsfunktion Auf Ihrem Windows Server 2012 System?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-official-app-three-ways-to-erase-it/"><u>Win 11'S Official App: Three Ways to Erase It</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728507878032-windows-11-3/"><u>Windows 11スペースクリア: 最も効果的な上位3つの手法</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/aadha-khlal-althlatha-trk-inshaaa-sora-krs-windows-11-klha-bdon-tklfa/"><u>عدها خلال الثلاثة: طرق إنشاء صورة قرص Windows 11 - كلها بدون تكلفة</u></a></li>
 </ul></div>
 

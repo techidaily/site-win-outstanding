@@ -1,7 +1,7 @@
 ---
 title: "Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology"
-date: 2024-12-21T16:27:44.593Z
-updated: 2024-12-27T01:05:44.864Z
+date: 2025-01-09T04:12:03.866Z
+updated: 2025-01-12T04:03:19.818Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,13 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye TCP
 
@@ -76,10 +76,6 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -92,13 +88,13 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
 
@@ -120,15 +116,15 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
 Other browser and software makers will, undoubtedly, add support for this new standard in due time. Particularly those based on the Chromium source code, like the newer versions of [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). Other platforms like [Caddy](https://caddyserver.com/) web server and [Lite Speed](https://www.litespeedtech.com/) products have also integrated this new technology.
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,20 +132,24 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -176,22 +176,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-highlight-strategy-guide-10-must-try-tips-for-your-business/"><u>[Updated] 2024 Approved Highlight Strategy Guide 10 Must-Try Tips for Your Business</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[Updated] In 2024, Accelerated Conversion of YT Content for MAC Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-unique-features-in-windows-11-god-mode/"><u>Explore: Unique Features in Windows 11 God Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-vimeo-videos/"><u>In 2024, How to Make Vimeo Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-150-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 150 (2023) to Outlook | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/intellect-in-your-hand-the-moto-z2-breakdown/"><u>Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/speeding-up-your-pc-expert-tips-for-tweaking-windows-10-configurations-insights-from-yl-computing/"><u>Speeding Up Your PC: Expert Tips for Tweaking Windows 10 Configurations - Insights From YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/start-your-music-journey-with-a-7-day-free-trial-of-party-tyme-karaoke-in-dex3-experience-the-ultimate-dj-subscription/"><u>Start Your Music Journey with a 7-Day Free Trial of Party Tyme Karaoke in DEX3 - Experience the Ultimate DJ Subscription</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-adjusting-audio-configurations-via-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Audio Configurations via Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-instructions-for-enabling-windows-update-in-control-panel-by-yl-software-experts/"><u>Step-by-Step Instructions for Enabling Windows Update in Control Panel by YL Software Experts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-setting-up-system-updates-through-control-panel-with-yl-software-expertise/"><u>Step-by-Step Tutorial: Setting Up System Updates Through Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-blaze-2-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubleshooting-your-unresponsive-cddvd-drive-expert-tips-from-yl-computing/"><u>Troubleshooting Your Unresponsive CD/DVD Drive: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/understanding-the-risks-can-you-safely-turn-off-windows-defender-insights-from-yl-computing/"><u>Understanding the Risks: Can You Safely Turn Off Windows Defender? Insights From YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/unveiling-the-impact-an-in-depth-analysis-of-opium-war-outcomes-explored-by-yl-tech/"><u>Unveiling the Impact: An In-Depth Analysis of Opium War Outcomes - Explored by YL Tech</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-high-performance-drone-gimbals-for-2024/"><u>[New] High-Performance Drone Gimbals for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-complete-instagram-vlog-flip-handbook/"><u>[New] In 2024, The Complete Instagram Vlog-Flip Handbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-simplified-methods-to-close-unused-social-media-linkedin-account/"><u>2024 Approved Simplified Methods to Close Unused Social Media (LinkedIn) Account</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5aac5l2v5pyj5pwi6l2s5o2i56gs55uy5yiw5zu65ocb6amx5yqo5zmo77ym5yyf5ous5a6m5pw05ocn5qoa5pplusl5lio5yig5yy65ogi5asn5oqa5ben/"><u>如何有效转换硬盘到固态驱动器，包括完整性检查与分区恢复技巧</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728474974369-asus/"><u>Asusノートパソコンにおけるデータ復元と復旧手順：最新ガイド</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/best-smartphones-for-enhanced-security-and-privacy-protection-around-the-globe/"><u>Best Smartphones for Enhanced Security and Privacy Protection Around The Globe</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/expert-recommended-software-secure-and-efficient-photo-backup-options-for-ios-devices/"><u>Expert Recommended Software: Secure & Efficient Photo Backup Options for iOS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-p55-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Itel P55 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>In 2024, Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-and-easy-nft-generation-a-beginners-playbook/"><u>In 2024, Quick and Easy NFT Generation A Beginner's Playbook</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/quick-guide-relocating-your-contact-list-from-desktop-to-ipad/"><u>Quick Guide: Relocating Your Contact List From Desktop to iPad</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-techniques-for-uploading-your-iphones-images-onto-your-laptop-via-usb-connector/"><u>Simple Techniques for Uploading Your iPhones Images Onto Your Laptop via USB Connector</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/solution-pour-la-recuperation-de-messages-manquants-sur-yahoo-mail-apprenez-en-plus-ici/"><u>Solution Pour La Récupération De Messages Manquants Sur Yahoo Mail – Apprenez-En Plus Ici!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-restoring-data-from-a-damaged-sd-card-via-command-prompt/"><u>Step-by-Step Guide: Restoring Data From a Damaged SD Card via Command Prompt</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-for-activatingdeactivating-offline-file-functionality-in-windows-10-systems/"><u>Step-by-Step Tutorial for Activating/Deactivating Offline File Functionality in Windows 10 Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-creativity-ranked-free-drawing-apps-for-mac-for-2024/"><u>Unleash Creativity Ranked FREE Drawing Apps for Mac for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/week-in-review-atandts-data-leak-exposed-and-samsung-unveils-latest-phone-line-up/"><u>Week in Review: AT&T's Data Leak Exposed & Samsung Unveils Latest Phone Line-Up</u></a></li>
 </ul></div>
 
