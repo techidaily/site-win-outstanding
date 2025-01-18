@@ -1,7 +1,7 @@
 ---
 title: Start Your Music Journey with a 7-Day Free Trial of Party Tyme Karaoke in DEX3 - Experience the Ultimate DJ Subscription
-date: 2025-01-05T16:50:17.859Z
-updated: 2025-01-11T20:49:22.312Z
+date: 2025-01-10T19:06:56.799Z
+updated: 2025-01-17T21:38:29.248Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Starting a 7-day free trial of [Party Tyme Karaoke](https://tools.techidaily.com
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How-To Start A 7-Day Free Trial Of Party Tyme Karaoke In DEX 3
@@ -35,23 +35,19 @@ Starting a 7-day free trial of [Party Tyme Karaoke](https://tools.techidaily.com
 ![Creating a Party Tyme Karaoke subscription trial step 1](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/10/step1-1.jpg?fit=508%2C508&ssl=1 "Creating a Party Tyme Karaoke subscription trial step 1")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1) Locate the “PT” logo (Party Tyme) within the browser navigation pane in DEX 3 (left side) and right-click on it. Select “Account Details” to launch the signup form.
 
 ![Creating a Party Tyme Karaoke subscription trial step 2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/10/step2.jpg?fit=508%2C508&ssl=1 "Creating a Party Tyme Karaoke subscription trial step 2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2) Create your user name and password and be sure to fill out ALL fields on the form. Items “Company Name”, “Company Business ID”, and “Office Name” are required but you can use what you choose to use in the fields. As displayed in the example image above we have used “PCDJ” for all three. Click “Create” once all fields on the form are completed.
 
 ![Starting a free trial of Party Tyme Karaoke subscription step 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/10/step3.jpg?fit=508%2C508&ssl=1 "Starting a free trial of Party Tyme Karaoke subscription step 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3) Under “Available Subscriptions” select the “Party Tyme Karaoke Pro Recurring Subscription, Monthly Charge (First week free. Cancellable at any time) $49” option (top item) and click “Activate New Subscription” (_**NOTE:** You can also cancel your free trial on this same screen in the event you do not wish to use the subscription after the 7-day free trial period_).
@@ -62,6 +58,10 @@ Step 4) Input your credit card credentials into the form and click “Save” to
 
 ![Party Tyme karaoke free trial logged in](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/10/step5-loggedin.jpg?fit=508%2C508&ssl=1 "Party Tyme karaoke free trial logged in")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5) You should now be logged in and ready to use Party Tyme Karaoke in DEX 3\. This will be indicated by the text “(Connected)” displayed to the right of the Party Tyme Karaoke text in the DEX 3 navigation pane. You can expand the Party Tyme Karaoke tree by clicking on the “PT” logo. Songs will immediately be searchable and you can browse the catalog by clicking on “Catalog (All Tracks)”.
 
 ### Using Party Tyme Karaoke Subscription In DEX 3
@@ -69,7 +69,7 @@ Step 5) You should now be logged in and ready to use Party Tyme Karaoke in DEX 3
 _If you have questions about the **Party Tyme Karaoke Subscription** service or how to use it with DEX 3 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,17 +91,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/10/startinga7daytrial-pt.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-joyful-juxtapositions-top-humorous-concepts-in-tiktok-culture/"><u>[New] Joyful Juxtapositions Top Humorous Concepts in TikTok Culture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069434714-new-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>[New] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease. For 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-box-opening-marketing-mastery-for-2024/"><u>[Updated] Box-Opening Marketing Mastery for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/authentication-query-for-security-email-at-facebookmailcom-related-to-fb-safety/"><u>Authentication Query for Security Email at facebookmail.com, Related to FB Safety</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-safe-practices-a-guide-to-using-chatgpt-responsibly-in-mental-health-counseling/"><u>Ensuring Safe Practices: A Guide to Using ChatGPT Responsibly in Mental Health Counseling</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-does-yl-software-tackle-the-issue-of-overheated-pcs-innovative-solutions-explored/"><u>How Does YL Software Tackle the Issue of Overheated PCs? Innovative Solutions Explored</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-resolve-a-blue-screen-of-death-flawlessly-guided-by-yl-software-experts/"><u>How to Resolve a Blue Screen of Death Flawlessly, Guided by YL Software Experts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/measuring-file-dimensions-on-your-pc-a-guide-to-finding-file-sizes-in-windows-yl-software-tutorial/"><u>Measuring File Dimensions on Your PC: A Guide to Finding File Sizes in Windows - YL Software Tutorial</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/steer-clear-of-pitfalls-expert-tips-on-smart-crypto-trading-strategies-yl-computing/"><u>Steer Clear of Pitfalls: Expert Tips on Smart Crypto Trading Strategies - YL Computing</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-updating-your-pcs-device-drivers-and-bios-tips-from-yl-computing/"><u>Step-by-Step Guide to Updating Your PC's Device Drivers & BIOS - Tips From YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-quartet-facebook-twitter-instagram-youtube-explained/"><u>The Quintessential Social Media Quartet: Facebook, Twitter, Instagram, YouTube Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-recording-perfecting-video-captures-on-your-android-phone/"><u>[New] Precision Recording Perfecting Video Captures on Your Android Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-attention-grabber-composer/"><u>[New] Top Attention Grabber Composer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beat-explorers-playlist-accessible-free-online-tools/"><u>[Updated] Beat Explorers' Playlist Accessible, Free Online Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-virtual-worlds-choosing-metavisors-wisely/"><u>[Updated] Mastering Virtual Worlds Choosing Metavisors Wisely</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1-how-can-i-retrieve-lost-information-from-my-hard-disk-expert-advice-by-yl-computing/"><u>1. How Can I Retrieve Lost Information From My Hard Disk? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/come-ripristinare-una-partizione-di-windows-eliminata-per-errore-guida-completa/"><u>Come Ripristinare Una Partizione Di Windows Eliminata per Errore: Guida Completa</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/find-your-perfect-ram-match-essential-tips-from-yl-softwares-experts/"><u>Find Your Perfect RAM Match: Essential Tips From YL Software's Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-p55plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel P55+ to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/navigating-sound-management-and-speaker-setup-in-windows-11-with-tips-from-yl-software-expertise/"><u>Navigating Sound Management and Speaker Setup in Windows 11 with Tips From YL Software Expertise</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/optimal-browser-configuration-expert-tips-from-yl-computing/"><u>Optimal Browser Configuration: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vs-counterfeit-deciphering-authentic-youtube-supports/"><u>Real Vs. Counterfeit Deciphering Authentic YouTube Supports</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/understanding-and-solving-print-recognition-errors-in-windows-tips-from-yl-software-experts/"><u>Understanding and Solving Print Recognition Errors in Windows - Tips From YL Software Experts</u></a></li>
 </ul></div>
 
