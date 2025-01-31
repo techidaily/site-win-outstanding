@@ -1,7 +1,7 @@
 ---
 title: Start Your Music Journey with a 7-Day Free Trial of Party Tyme Karaoke in DEX3 - Experience the Ultimate DJ Subscription
-date: 2025-01-21T21:37:24.058Z
-updated: 2025-01-23T16:38:35.198Z
+date: 2025-01-28T19:02:51.894Z
+updated: 2025-01-31T16:03:03.351Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Starting a 7-day free trial of [Party Tyme Karaoke](https://tools.techidaily.com
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How-To Start A 7-Day Free Trial Of Party Tyme Karaoke In DEX 3
@@ -35,20 +35,20 @@ Starting a 7-day free trial of [Party Tyme Karaoke](https://tools.techidaily.com
 ![Creating a Party Tyme Karaoke subscription trial step 1](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/10/step1-1.jpg?fit=508%2C508&ssl=1 "Creating a Party Tyme Karaoke subscription trial step 1")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1) Locate the “PT” logo (Party Tyme) within the browser navigation pane in DEX 3 (left side) and right-click on it. Select “Account Details” to launch the signup form.
 
 ![Creating a Party Tyme Karaoke subscription trial step 2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/10/step2.jpg?fit=508%2C508&ssl=1 "Creating a Party Tyme Karaoke subscription trial step 2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2) Create your user name and password and be sure to fill out ALL fields on the form. Items “Company Name”, “Company Business ID”, and “Office Name” are required but you can use what you choose to use in the fields. As displayed in the example image above we have used “PCDJ” for all three. Click “Create” once all fields on the form are completed.
 
 ![Starting a free trial of Party Tyme Karaoke subscription step 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/10/step3.jpg?fit=508%2C508&ssl=1 "Starting a free trial of Party Tyme Karaoke subscription step 3")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3) Under “Available Subscriptions” select the “Party Tyme Karaoke Pro Recurring Subscription, Monthly Charge (First week free. Cancellable at any time) $49” option (top item) and click “Activate New Subscription” (_**NOTE:** You can also cancel your free trial on this same screen in the event you do not wish to use the subscription after the 7-day free trial period_).
 
@@ -58,19 +58,19 @@ Step 4) Input your credit card credentials into the form and click “Save” to
 
 ![Party Tyme karaoke free trial logged in](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/10/step5-loggedin.jpg?fit=508%2C508&ssl=1 "Party Tyme karaoke free trial logged in")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5) You should now be logged in and ready to use Party Tyme Karaoke in DEX 3\. This will be indicated by the text “(Connected)” displayed to the right of the Party Tyme Karaoke text in the DEX 3 navigation pane. You can expand the Party Tyme Karaoke tree by clicking on the “PT” logo. Songs will immediately be searchable and you can browse the catalog by clicking on “Catalog (All Tracks)”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using Party Tyme Karaoke Subscription In DEX 3
 
 _If you have questions about the **Party Tyme Karaoke Subscription** service or how to use it with DEX 3 please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -91,22 +91,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/10/startinga7daytrial-pt.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-routines-to-alter-track-tempoplay-in-spotify/"><u>[New] Optimal Routines to Alter Track Tempoplay in Spotify</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-inside-the-monetization-maze-dailymotion-vs-youtube/"><u>[Updated] 2024 Approved Inside the Monetization Maze Dailymotion vs YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>2024 Approved Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/5-effective-strategies-for-fixing-windows-migration-assistant-issues/"><u>5 Effective Strategies for Fixing Windows Migration Assistant Issues</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effortlessly-switch-platforms-transferring-information-from-android-device-to-iphone-without-a-reset/"><u>Effortlessly Switch Platforms: Transferring Information From Android Device to iPhone Without a Reset</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/essential-guide-tamper-protection-strategies-in-windows-11-insights-from-malwarefox/"><u>Essential Guide: Tamper Protection Strategies in Windows 11 - Insights From MalwareFox</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/fixes-fur-den-fehlerhaften-secure-modus-in-windows-11-entdecken-sie-detaillierte-losungen-auf-drei-wegen/"><u>Fixes Für Den Fehlerhaften Secure-Modus in Windows 11: Entdecken Sie Detaillierte Lösungen Auf Drei Wegen</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/four-effective-methods-to-move-your-files-from-windows-10-to-windows-11/"><u>Four Effective Methods to Move Your Files From Windows 10 to Windows 11</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/high-resolution-susan-coffey-background-imagery-stunning-hd-landscapes-and-artistic-wallpapers-from-yl-software/"><u>High-Resolution Susan Coffey Background Imagery - Stunning HD Landscapes & Artistic Wallpapers From YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-now-top-five-actions-to-take-with-your-windows-10-pc-before-end-of-service-in-a-years-time-insights-from-zdnet/"><u>Prepare Now: Top Five Actions to Take with Your Windows 10 PC Before End of Service in a Year's Time - Insights From ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/quick-guide-easily-downloading-the-latest-windows-11-iso-version-23h2-for-pc-upgrade/"><u>Quick Guide: Easily Downloading the Latest Windows 11 ISO Version 23H2 for PC Upgrade!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-free-email-backup-applications-compatible-with-gmail-outlook-and-yahoo-for-secure-data-protection/"><u>Top Free Email Backup Applications: Compatible with Gmail, Outlook & Yahoo for Secure Data Protection</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tutorial-complet-securiser-vos-images-windows-sur-le-stockage-en-nuages-methodes-optimisees/"><u>Tutorial Complet : Securiser Vos Images Windows Sur Le Stockage en Nuages - Méthodes Optimisées</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-htc-u23-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your HTC U23 Pro Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/yl-software-essentials-tutorial-on-updating-permission-settings-for-users/"><u>YL Software Essentials: Tutorial on Updating Permission Settings for Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-apex-equipment-prime-8k-cameras-unmatched-for-2024/"><u>[Updated] Apex Equipment Prime 8K Cameras Unmatched for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>[Updated] In 2024, Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>[Updated] In 2024, Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-rendering-with-srgb-technology/"><u>2024 Approved Advanced Rendering with Srgb Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-thrifty-pc-frame-buffer-tools/"><u>2024 Approved Thrifty PC Frame Buffer Tools</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5-proven-strategies-for-restoring-your-lost-google-chrome-bookmark-savvy/"><u>5 Proven Strategies for Restoring Your Lost Google Chrome Bookmark Savvy</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/comment-modifier-le-parametre-de-lingua-dans-fonebackup-sur-android-et-ios/"><u>Comment Modifier Le Paramètre De Lingua Dans FoneBackup Sur Android Et iOS?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/computerschutz-durch-backup-via-kommandozeile-einfach-erklart/"><u>Computerschutz Durch Backup via Kommandozeile - Einfach Erklärt</u></a></li>
+<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guide-disabling-browser-trackers-on-mozilla-firefox-for-enhanced-privacy/"><u>Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-workspace-strategic-software-shortcuts-for-win11/"><u>Optimizing Your Workspace: Strategic Software Shortcuts for Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-realtek-audio-issues-how-to-restore-sound-to-your-device/"><u>Solving Realtek Audio Issues: How to Restore Sound to Your Device</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/title-guaranteed-methods-for-verifying-a-websites-authenticity-and-avoiding-scams/"><u>Title: Guaranteed Methods for Verifying a Website's Authenticity & Avoiding Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-did-italy-declare-an-immediate-ban-on-ai-language-models/"><u>Why Did Italy Declare an Immediate Ban on AI Language Models?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-dateiexplorer-beschleunigung-der-dateiauflistung-durch-schnellen-zugriff-myrecover-hilfe/"><u>Windows Dateiexplorer - Beschleunigung Der Dateiauflistung Durch Schnellen Zugriff | MyRecover Hilfe</u></a></li>
 </ul></div>
 
