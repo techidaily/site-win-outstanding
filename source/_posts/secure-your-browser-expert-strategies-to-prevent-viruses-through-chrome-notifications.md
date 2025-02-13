@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Browser: Expert Strategies to Prevent Viruses Through Chrome Notifications"
-date: 2025-01-18T18:45:19.594Z
-updated: 2025-01-23T18:18:53.512Z
+date: 2025-02-10T05:43:28.615Z
+updated: 2025-02-12T20:41:04.437Z
 tags:
   - product
   - antivirus
@@ -48,13 +48,13 @@ In this guide, we would discuss more on Chrome Notifications and how to avoid th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are these Notifications?
 
 As already mentioned in the intro, the push notifications from the Chrome web browser are the information sent by the websites, which have got permission from the users. These notifications are displayed outside the browser window and will also pop up even if the site is inactive, and the browser is closed. This is what makes it apart from the pop-up notifications, which only appear when the browser is active.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did I Get Them?
 
@@ -68,10 +68,6 @@ Many websites trick users into making them click on the allow button, and it tra
 
 ![allow to watch video](https://www.malwarefox.com/wp-content/uploads/2020/08/allow.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It is possible that your browser may be hijacked, and it might allow irrelevant websites to send the notifications without your permission.
 
 [Chrome Using too much CPU? Here's How to Fix High Memory Usage](https://tools.techidaily.com/malwarefox/products/)
@@ -84,6 +80,10 @@ Likewise, if you have allowed your favorite blog site to show you a notification
 
 So, these notifications don’t need to be always annoying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can Chrome Notifications be used for Virus attacks?
 
 Cybercriminals always try to find different ways to infect your computer with [malware](https://tools.techidaily.com/malwarefox/products/). Developers exploit every new feature to use it maliciously. The same happens with push notifications. Cybercriminals can use it like they use pop-up notifications.
@@ -95,7 +95,7 @@ Notifications bear no threat by themselves. So, cyberattackers would force you t
 ![chrome notification](https://www.malwarefox.com/wp-content/uploads/2020/08/chrome-notification.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When you click any of the notifications from the malicious site, you can trigger the silent installation of harmful malware programs such as [banking trojans](https://tools.techidaily.com/malwarefox/products/) or [browser viruses](https://tools.techidaily.com/malwarefox/products/). You can also be redirected to the malware-carrying sites.
@@ -111,26 +111,18 @@ If you have mistakenly allowed any website to show you notifications, you can bl
 ![Open Settings in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Open-Settings-in-Chrome.jpg)
 3. Under “Privacy and security,” choose **Site Settings.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose site settings](https://www.malwarefox.com/wp-content/uploads/2020/08/Choose-site-settings.jpg)
 4. Now under “Permissions,” click on the **Notifications.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/notifs.jpg)
 5. You will find two sections **Block** – the sites that are restricted to show notifications and **Allow**\-the sites allowed to show notifications.
 
 6. Go to the Allow section and look for the website that is sending you irrelevant notifications. Click on the three-dots next to it and choose **Block.**![block notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/block-notifs.jpg)
 7. If you don’t want to receive notifications from any websites, you can permanently disable it by switching off the button next to “**Sites can ask to send notifications.**“![permanently block notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/permanently-block-notifs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Get Rid of the Browser Virus from the Chrome**
 
@@ -148,6 +140,10 @@ Here are the steps to manage the web extensions on the Chrome Browser:
 2. Bring mouse cursor over **More tools** and from the extended menu choose **Extensions**.![Extensions settings](https://www.malwarefox.com/wp-content/uploads/2020/07/Extensions-settings.png)
 3. All the extensions would be on your screen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Look for the ones you want to disable or remove.![manage chrome extensions](https://www.malwarefox.com/wp-content/uploads/2020/07/manage-chrome-extensions.jpg)
 
 #### **Reset Web Browser Settings**
@@ -157,11 +153,15 @@ If your browser is misbehaving because browser virus, then reset its settings to
 1. Open Chrome and navigate to **Settings** by clicking on the three dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Relaunch your browser.
@@ -175,6 +175,10 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to avoid getting such Notifications?
 
 If you don’t want to bother yourself with such notification bombardments, you must follow healthy browsing practices.
@@ -185,10 +189,6 @@ If you don’t want to bother yourself with such notification bombardments, you 
 4. While installing software, uncheck the installation of the bonus program.
 5. Avoid getting freeware programs from [unsecured and untrustworthy sources](https://tools.techidaily.com/malwarefox/products/).
 6. Always keep installed a robust antimalware solution on your device so that any threat can be detected beforehand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -215,20 +215,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-optimal-ram-assignment-for-superior-minecraft-gaming/"><u>[New] Optimal Ram Assignment for Superior Minecraft Gaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-financial-independence-through-youtube-and-adsense-for-2024/"><u>[Updated] Achieving Financial Independence Through YouTube and AdSense for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-sharing-lifes-moments-with-your-online-audience/"><u>[Updated] Sharing Life's Moments with Your Online Audience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-font-inclusion-process-in-ae/"><u>2024 Approved Breaking Down the Font Inclusion Process in AE</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/come-installare-windows-11-con-supporto-legacy-e-nessun-requisito-per-tpm-20/"><u>Come Installare Windows 11 Con Supporto Legacy E Nessun Requisito per TPM 2.0</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-overcome-sony-a6400-video-viewing-failure-for-2024/"><u>How to Overcome Sony A6400 Video Viewing Failure for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplified-approach-to-nvidia-screen-recording/"><u>In 2024, Simplified Approach to NVIDIA Screen Recording</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-go-2024-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark Go (2024) Phone FRP Lock</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/lost-das-problem-seagate-ps4-game-drive-wird-nicht-erkannt-expertenrat-von-myrecover/"><u>Löst Das Problem 'Seagate PS4 Game Drive Wird Nicht Erkannt': Expertenrat Von MyRecover</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/seamless-iphone-to-windows-1110-photo-and-video-transfer-methods-explained/"><u>Seamless iPhone to Windows (11/10) Photo and Video Transfer Methods Explained</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tecnicas-esenciales-para-reparacion-eficaz-de-archivos-del-sistema-y-proteccion-contra-la-perdida-de-datos-en-windows-7/"><u>Técnicas Esenciales Para Reparación Eficaz De Archivos Del Sistema Y Protección Contra La Pérdida De Datos en Windows 7</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-toolbox-what-every-youtube-newbie-needs-for-2024/"><u>The Ultimate Toolbox What Every YouTube Newbie Needs for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-tips-for-retrieving-lost-data-on-windows-11/"><u>Top Tips for Retrieving Lost Data on Windows 11</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-truenas/"><u>Windowsデータ保護: TrueNASで簡単に自動バックアップ設定をするレシピ</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[New] Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-whimsical-logging-in-and-out-guide/"><u>[Updated] Whimsical Logging in & Out Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-closing-videos-effectively/"><u>2024 Approved The Ultimate Guide to Closing Videos Effectively</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/3-rutas-faciles-para-sincronizar-musica-entre-tu-computador-windows-11-y-el-iphone/"><u>3 Rutas Fáciles Para Sincronizar Música Entre Tu Computador Windows 11 Y El iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-advantages-adopting-chatgpt-in-professional-development/"><u>6 Advantages: Adopting ChatGPT in Professional Development</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/anleitung-zur-wiederherstellung-des-systems-auf-nicht-standardmassiger-hardware-unter-nutzung-der-sicherheitsfunktion-secure-boot/"><u>Anleitung Zur Wiederherstellung Des Systems Auf Nicht Standardmäßiger Hardware Unter Nutzung Der Sicherheitsfunktion 'Secure Boot'</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/best-practices-for-addressing-full-hard-drive-occupancy-on-windows-11/"><u>Best Practices for Addressing Full Hard Drive Occupancy on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unexpected-termination-of-services-overcoming-error-1067-on-your-pc/"><u>How to Resolve Unexpected Termination of Services: Overcoming Error 1067 on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained-for-2024/"><u>New Bring Your Videos to Life The Magic of Cartoon Conversion Explained for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-play-solutions-for-a-smooth-pubg-experience/"><u>Optimizing Play: Solutions for a Smooth PUBG Experience</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/solving-the-no-bootable-device-detected-issue-in-windows-11-a-guide-to-four-effective-solutions/"><u>Solving the 'No Bootable Device Detected' Issue in Windows 11: A Guide to Four Effective Solutions!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-on-5-captivating-book-viddies-for-2024/"><u>Spotlight on 5 Captivating Book Viddies for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilizing-deathloop-for-pc-effective-strategies-to-stop-unexpected-game-interruptions/"><u>Stabilizing Deathloop for PC: Effective Strategies to Stop Unexpected Game Interruptions</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-7-fixes-fur-apple-music-bought-songs-die-nicht-in-der-itunes-library-angezeigt-werden/"><u>Top 7 Fixes Für Apple Music-Bought Songs, Die Nicht in Der iTunes Library Angezeigt Werden</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728481196719-windows-11/"><u>Windows 11 原始韌體修復手冊：如何恢復電腦到新車型質標準</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Browser Trackers on Mozilla Firefox for Enhanced Privacy"
-date: 2025-01-23T02:57:08.912Z
-updated: 2025-01-24T04:55:58.713Z
+date: 2025-02-11T20:44:07.262Z
+updated: 2025-02-12T22:42:31.001Z
 tags:
   - product
   - antivirus
@@ -33,7 +33,7 @@ Firefox started blocking content to protect the privacy of users. Several websit
 > **Note:-** Blocking all cookies or all third-party cookies may cause websites to break. Some parts may not load properly if you block the cookies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Activate Content Blocking
@@ -41,7 +41,7 @@ Firefox started blocking content to protect the privacy of users. Several websit
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changing the Block List
@@ -49,20 +49,24 @@ Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t se
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Send Do Not Track Request
 
 You can even send the **Do Not Track** request to the websites. Two options to choose from one is **Always**, and another one is when **Firefox is set to block known trackers**.![Do Not Track Request](https://www.malwarefox.com/wp-content/uploads/2019/06/Do-Not-Track-Request.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Know Firefox is Blocking Content
 
 Now the content blocking on the Firefox is set. It will prevent the content as per the settings. Whenever Firefox blocks the content, you will see a **shield icon** before the URL of the website.![Content Blocking Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Icon.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Content Blocking for Trusted Websites?
 
@@ -71,10 +75,6 @@ If you trust a website and doesn’t want to block the content, then you can dis
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -115,15 +115,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-ultimate-speed-camera-showdown-hero-4-vs-ghost-s/"><u>[New] 2024 Approved The Ultimate Speed Camera Showdown Hero 4 VS Ghost-S</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-creating-a-narrative-structure-for-2024/"><u>[Updated] Creating a Narrative Structure for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-elevating-meetings-a-comprehensive-guide-to-zoom-filters-for-2024/"><u>[Updated] Elevating Meetings A Comprehensive Guide to Zoom Filters for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728493067618-windowsiphone/"><u>如何在Windows系统及iPhone设备中重建记事本文件：用户友好版</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728501682523-acronis/"><u>最善の無料 Acronis クローニングアプリケーション - 選択肢を比較してみましょう</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/effortless-recovery-of-corrupted-drives-and-forgotten-files/"><u>Effortless Recovery of Corrupted Drives and Forgotten Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S23 Tactical Edition Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-resolution-adjustments-a-step-by-step-ffmpeg-walkthrough/"><u>Mastering Resolution Adjustments: A Step-by-Step FFmpeg Walkthrough</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/should-you-consider-the-iphone-se-2022-as-an-upgrade-from-your-older-model-like-iphone-7-8-xr-or-se/"><u>Should You Consider the iPhone SE 2022 as an Upgrade From Your Older Model Like iPhone 7, 8, XR or SE?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-editing-with-these-10-pro-plugins/"><u>[New] Accelerate Your Editing with These 10 Pro Plugins</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-peeking-into-instagram-stories-what-viewers-dont-know-for-2024/"><u>[New] Peeking Into Instagram Stories What Viewers Don’t Know for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1-aomei-mft-mastery-ultimate-guide-to-real-time-file-synchronization-faqs/"><u>1. AOMEI MFT Mastery: Ultimate Guide to Real-Time File Synchronization FAQs</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728506895401-10/"><u>無料のウィンドウズ 10用ディスク バックアップ ソフトウェア - シャドウイメージ作成</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guide-simple-et-facile-pour-transfert-de-fichiers-entre-hdd-externe-et-pc-sous-windows-11/"><u>Guide Simple Et Facile Pour Transfert De Fichiers Entre HDD Externe Et PC Sous Windows 11.</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guide-wie-richtet-man-ipod-iphone-and-ipad-mit-aomei-fonebackup-ein/"><u>Guide: Wie Richtet Man iPod, iPhone & iPad Mit AOMEI FoneBackup Ein?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y36i-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36i Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-ring-doorbell-plus-with-new-batteries/"><u>In-Depth Analysis of the Ring Doorbell Plus with New Batteries</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos/"><u>New 2024 Approved Unleash Your Creativity Top Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-latest-on-teslas-cybertruck-launch-revised-arrival-dates-and-noteworthy-setbacks/"><u>The Latest on Tesla's Cybertruck Launch: Revised Arrival Dates and Noteworthy Setbacks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-tier-hd-screen-recording-technology/"><u>Top-Tier HD Screen Recording Technology</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/topas-5-para-solucionar-problemas-de-despliegue-ambiente-en-la-restauracion-de-windows-11/"><u>Topas 5 Para Solucionar Problemas De Despliegue Ambiente en La Restauración De Windows 11</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-11asus-vivobook-asus-recovery-key-f9/"><u>Windows 11におけるASUS Vivobookのリカバリモードへのアクセス: ASUS Recovery Key F9使用ガイド</u></a></li>
 </ul></div>
 
